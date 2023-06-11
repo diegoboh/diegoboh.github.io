@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Diego Bohórquez"
 title_separator          : "-"
 name                     : &name "Diego Bohórquez"
-description              : &description "PhD Candidate in economics at Universitat Pompeu Fabra44"
+description              : &description "PhD Candidate in economics at Universitat Pompeu Fabra"
 url                      : https://diegoboh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "diegoboh.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Diego Bohórquez"
   avatar           : "avatar-antig.png"
-  bio              : "PhD Candidate in Economics at Universitat Pompeu Fabra"
+  bio              : "PhD Candidate in Economics at Universitat Pompeu Fabra44"
   location         : "Barcelona"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
