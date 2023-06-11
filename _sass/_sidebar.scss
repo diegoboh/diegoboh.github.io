@@ -84,9 +84,7 @@
 
   img {
     max-width: 200px;
-    border-radius: 50% !important; /* Change the border-radius to 50% for a circular shape */
-    width: 36px; /* Set the width equal to the desired size of the avatar */
-    height: 36px; /* Set the height equal to the desired size of the avatar */
+    border-radius: 50%;
 
     @include breakpoint($large) {
       padding: 0px;
