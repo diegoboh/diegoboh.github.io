@@ -53,14 +53,14 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #fff; // #fff;
-$background-color           : #efefef; // #fff;
+$body-color                 : #fff; // #fff; Useless.. quizás la barra de abajo?
+$background-color           : #efefef; // #fff; Color del background
 $code-background-color      : #fafafa; 
 $code-background-color-dark : $light-gray;
-$text-color                 : #005091; //$dark-gray;
+$text-color                 : #005091; //$dark-gray; Texto en general (no barra)
 $border-color               : $lighter-gray;
 
-$primary-color              : #005091; //#7a8288
+$primary-color              : #005091; //#7a8288 Texto de la barra de arriba
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
