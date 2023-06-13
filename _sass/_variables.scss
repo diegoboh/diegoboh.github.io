@@ -57,7 +57,7 @@ $body-color                 : #fff; // #fff; Useless.. quizás la barra de abajo
 $background-color           : #efefef; // #fff; Color del background
 $code-background-color      : #fafafa; 
 $code-background-color-dark : $light-gray;
-$text-color                 : #005091; //$dark-gray; Texto en general (no barra)
+$text-color                 : $dark-gray; //$dark-gray; Texto en general (no barra)
 $border-color               : $lighter-gray;
 
 $primary-color              : #005091; //#7a8288 Texto de la barra de arriba
