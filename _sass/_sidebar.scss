@@ -119,13 +119,13 @@
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;
-   color: #ff0000; // DELETE THIS LINE IF NEEDED
+   color: #005091; // DELETE THIS LINE IF NEEDED
 }
 
 .author__bio {
   margin: 0;
-  font-size: 0.9em; // DELETE IF NEEDED
-  font-style: italic; //DELETE IF NEEDED
+  //font-size: 0.9em; // DELETE IF NEEDED
+  //font-style: italic; //DELETE IF NEEDED
 
   @include breakpoint($large) {
     margin-top: 10px;
