@@ -1,7 +1,7 @@
 ---
 title: "The Dollar and Global Financial Collapse"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink:
 excerpt: 'In this paper, I explore the macroeconomic implications of the Fed acting as the international lender of last resort to foreign global banks during periods of crisis...'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 date: 2010-10-01
