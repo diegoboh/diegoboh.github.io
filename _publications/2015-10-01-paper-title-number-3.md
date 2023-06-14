@@ -8,7 +8,7 @@ date: 2010-10-01
 venue: 'Journal 1'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; &lt;i&gt;Journal 1&lt;/i&gt;. 1(2).'
 ---
-presented_at: '2nd Sailing the Macro Workshop (Sep. 2022)', 'Naples School of Economics PhD Workshop (Sep. 2022)'
+presented at: '2nd Sailing the Macro Workshop (Sep. 2022)', 'Naples School of Economics PhD Workshop (Sep. 2022)'
   - 'BdF-BoE-BoI International-Macro Workshop (Nov. 2022)'
   - 'SAEe (Dec. 2022)'
   - 'CREi MacroLunch (May 2022/Mar. 2023)'
