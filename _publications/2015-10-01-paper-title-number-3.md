@@ -7,6 +7,7 @@ paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 date: 2010-10-01
 venue: 'Journal 1'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; &lt;i&gt;Journal 1&lt;/i&gt;. 1(2).'
+---
 presented_at:
   - '2nd Sailing the Macro Workshop (Sep. 2022)'
   - 'Naples School of Economics PhD Workshop (Sep. 2022)'
@@ -18,6 +19,5 @@ presented_at:
   - 'Journal of International Economics Summer School (Poster, Jun. 2023)'
   - 'XXVI Workshop on Dynamic Macro (sched. Jul. 2023)'
   - 'EEA (sched Aug. 2023)'
----
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
