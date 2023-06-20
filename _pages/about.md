@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: " "
 author_profile: true
@@ -6,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 About me dd
 --
 
@@ -13,3 +15,10 @@ I am a PhD candidate in Economics at Pompeu Fabra University and the Barcelona S
 
 **Research interests:** \
 International macroeconomics, international finance and monetary policy. s
+
+permalink: /
+title: " "
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
