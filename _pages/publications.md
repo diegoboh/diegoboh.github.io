@@ -4,10 +4,12 @@ title: "Research v"
 permalink: /publications/
 author_profile: true
 ---
-
+<span style="color:rgb(214, 2, 127)">
 Work in progress
 --
-<span style="color:rgb(214, 2, 127)"> some *blue* aaaaa text </span>.
+</span>
+
+<span style="color:rgb(214, 2, 127)"> some *blue* aaaaa text </span>
 
 **The dollar blah blah**
 
