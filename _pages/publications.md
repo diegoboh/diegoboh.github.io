@@ -4,9 +4,8 @@ title: "Research v"
 permalink: /publications/
 author_profile: true
 ---
-<span style="color:rgb(214, 2, 127)">
+<span style="color:rgb(214, 2, 127); font-size:18pt; font-style:bold">
 Work in progress
---
 </span>
 
 <span style="color:rgb(214, 2, 127)"> some *blue* aaaaa text </span>
