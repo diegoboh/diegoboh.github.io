@@ -12,4 +12,4 @@ I am a PhD candidate in Economics at Pompeu Fabra University and the Barcelona S
 
 
 **Research interests:** \
-International macroeconomics, international finance and monetary policy.
+International macroeconomics, international finance and monetary policy. s
