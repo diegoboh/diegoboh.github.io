@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "Research v"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
-<span style="color:rgb(214, 2, 127); font-size:18pt; font-weight:bold">
-Work in progress
+<span style="color:rgb(168, 141, 34); font-size:17pt">
+**Work in progress**
 </span>
 
-<span style="color:rgb(214, 2, 127)"> some *blue* aaaaa text </span>
+// <span style="color:rgb(214, 2, 127)"> some *blue* aaaaa text </span>
 
 **The dollar blah blah**
 
@@ -16,8 +16,9 @@ Work in progress
 This paper explores the macroeconomic implications of the Fed acting as the international lender of last resort to foreign global banks during periods of crisis. To do so, I develop a stylized and tractable model that captures important features of the global financial system in the run-up to the 2008 crisis, such as non-US global banks that invest in US assets but are exposed to dollar liquidity shortages. My model highlights the possibility of multiple equilibria, one of which resembles a global financial crisis with a sharp appreciation of the dollar, tighter financial conditions, weaker aggregate demand, and output losses. Moreover, these episodes may be self-fulfilling due to a feedback loop between the exchange rate and banks’ capacity to raise funds. Given that global banks’ liquidity needs are often denominated in dollars, the Fed is better equipped than other central banks to prevent the “bad” equilibrium when the dollar is strong. However, US incentives to intervene -through dollar swap lines- may not be aligned with the rest of the world. 11 
 </p>
 
-Policy papers
---
+<span style="color:rgb(168, 141, 34); font-size:17pt">
+**Policy papers**
+</span>
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
