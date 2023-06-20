@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Research"
+title: "Research v"
 permalink: /publications/
 author_profile: true
 ---
 
 Work in progress
 --
-<span style="color:rgb(214, 122, 127)"> some *blue* aaaaa text </span>.
+<span style="color:rgb(214, 2, 127)"> some *blue* aaaaa text </span>.
 
 **The dollar blah blah**
 
@@ -16,7 +16,7 @@ This paper explores the macroeconomic implications of the Fed acting as the inte
 </p>
 
 Policy papers
-==
+--
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
