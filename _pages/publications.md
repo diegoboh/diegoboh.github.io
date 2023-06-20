@@ -7,7 +7,7 @@ author_profile: true
 
 Work in progress
 --
-<span style="color:#a88d22">some *blue* aaaaa text</span>.
+<span style="color:rgb(214, 122, 127)"> some *blue* aaaaa text </span>.
 
 **The dollar blah blah**
 
