@@ -28,7 +28,7 @@ This paper analyses the interaction between macroprudential instruments using a 
 
 **The implications of loan maturity on the probability of default: evidence from Peruvian long-term loans** \
 <span style="font-size:12pt"> (with V. Matienzo and A. Olivares) </span> \
-<span style="font-size:12pt"> SBS Working Paper DT-003-2017 </span> 
+<span style="font-size:12pt"> [Working paper](https://www.sbs.gob.pe/Portals/0/jer/DDT_ANO2017/SBS-DT-003-2017.pdf?ver=2018-02-08-124240-620) SBS Working Paper DT-003-2017 </span> 
 
 **Pro-cyclicality and non-linearities of the credit portfolio: evidence from Peru (1998-2015)** \
 (with C. Aparicio V. Matienzo) \
