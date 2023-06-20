@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: " "
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
 Work in progress
 ==
-<span style="color:blue">some *blue* aaaaa text</span>.
+<span style="color:#a88d22">some *blue* aaaaa text</span>.
 
 **The dollar blah blah**
 
