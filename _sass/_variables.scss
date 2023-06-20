@@ -60,7 +60,7 @@ $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray; //$dark-gray; Texto en general (no barra)
 $border-color               : $lighter-gray;
 
-$primary-color              : #005091; //#7a8288 Texto de la barra de arriba
+$primary-color              : $darker-gray; //#7a8288 Texto de la barra de arriba
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
