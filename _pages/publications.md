@@ -7,7 +7,7 @@ author_profile: true
 
 Working Progress
 ==
-<span style="color:blue">some *blue* text</span>.
+<span style="color:blue">some *blue* aaaaa text</span>.
 
 **The dollar blah blah**
 
