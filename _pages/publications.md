@@ -4,6 +4,7 @@ title:
 permalink: /publications/
 author_profile: true
 ---
+
 Working Progress
 ==
 <span style="color:blue">some *blue* text</span>.
