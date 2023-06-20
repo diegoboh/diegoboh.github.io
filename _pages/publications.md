@@ -9,9 +9,11 @@ author_profile: true
 </span>
 
 - <ins> **The Dollar and Global Financial Collapse** </ins> \
-<p style="text-align: justify; font-size:12pt">
+<span style="text-align: justify; font-size:12pt">
 This paper explores the macroeconomic implications of the Fed acting as the international lender of last resort to foreign global banks during periods of crisis. To do so, I develop a stylized and tractable model that captures important features of the global financial system in the run-up to the 2008 crisis, such as non-US global banks that invest in US assets but are exposed to dollar liquidity shortages. My model highlights the possibility of multiple equilibria, one of which resembles a global financial crisis with a sharp appreciation of the dollar, tighter financial conditions, weaker aggregate demand, and output losses. Moreover, these episodes may be self-fulfilling due to a feedback loop between the exchange rate and banks’ capacity to raise funds. Given that global banks’ liquidity needs are often denominated in dollars, the Fed is better equipped than other central banks to prevent the “bad” equilibrium when the dollar is strong. However, US incentives to intervene -through dollar swap lines- may not be aligned with the rest of the world.
-</p> \ <p style="text-align: justify; font-size:12pt; font-style:italic">
+</span>
+
+<p style="text-align: justify; font-size:12pt; font-style:italic">
 <span style="color:rgb(168, 141, 34); font-weight:bold"> Presented at: </span> <span style="color:rgb(28, 69, 135)"> 2nd Sailing the Macro Workshop (Sep. 2022), Naples School of Economics PhD Workshop (Sep. 2022), BdF-BoE-BoI International-Macro Workshop (Nov. 2022), SAEe (Dec. 2022), CREi MacroLunch (May 2022/Mar. 2023), Université Paris Nanterre PhD Conference (Apr. 2023), LBS TADC (May 2023), Journal of International Economics Summer School (Poster, Jun. 2023), XXVI Workshop on Dynamic Macro (sched. Jul. 2023), EEA (sched Aug. 2023) </span>
 </p>
 
