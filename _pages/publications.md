@@ -18,7 +18,7 @@ This paper explores the macroeconomic implications of the Fed acting as the inte
 
 <style>
     .indented-paragraph {
-        text-indent: 2em;
+        text-indent: 0em;
         margin-left: 2em;
     }
 </style>
