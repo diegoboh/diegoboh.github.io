@@ -7,6 +7,7 @@ author_profile: true
 <span style="color:rgb(168, 141, 34); font-size:17pt">
 **Work in progress**
 </span>
+
 ***
 
 **The Dollar and Global Financial Collapse**
@@ -28,6 +29,7 @@ This paper analyses the interaction between macroprudential instruments using a 
 <span style="color:rgb(168, 141, 34); font-size:17pt">
 **Policy papers**
 </span>
+
 ***
 
 <ins>**The implications of loan maturity on the probability of default: evidence from Peruvian long-term loans** </ins>\
