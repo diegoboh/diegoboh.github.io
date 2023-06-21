@@ -10,7 +10,7 @@ author_profile: true
 
 ***
 
-**The Dollar and Global Financial Collapse 2**
+**The Dollar and Global Financial Collapse**
 
 <style>
     .indented-paragraph {
