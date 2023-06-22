@@ -47,22 +47,18 @@ This paper analyses the interaction between macroprudential instruments using a 
 <hr style="border-color: gray;">
 
 **The implications of loan maturity on the probability of default: evidence from Peruvian long-term loans** \
-<span style="font-size:12pt"> (with V. Matienzo and A. Olivares). *SBS Working Paper DT-003-2017* </span> \
-<span style="font-size:12pt"> [[Working paper]](https://www.sbs.gob.pe/Portals/0/jer/DDT_ANO2017/SBS-DT-003-2017.pdf?ver=2018-02-08-124240-620) </span> \
+<span style="font-size:12pt"> with V. Matienzo and A. Olivares. *SBS Working Paper DT-003-2017* </span> \
+<span style="font-size:12pt"> [[Paper]](https://www.sbs.gob.pe/Portals/0/jer/DDT_ANO2017/SBS-DT-003-2017.pdf?ver=2018-02-08-124240-620) </span> \
 <span style="color:rgb(28, 69, 135); font-size:12pt; font-weight:bold"> *Presented at:* </span> <span style="color:rgb(28, 69, 135); text-align: justify; font-size:12pt; font-style:italic"> World Bank & ASBA (Jul. 2017), Annual Congress of the Peruvian Economic Association (2017), XXXV Central Reserve Bank of Peru Annual Research Conference (Oct. 2017) </span>
 
 **Access to Financial Services through Retail Agents and Household Expenditures: Evidence from Peru** \
-(with C. Aparicio and K. Huayta) \
-Journal of Financial Issues SBS Volume XII N1 2016
-
-<div class="indented-paragraph"><p style="text-align: justify; font-size:12pt; font-style:italic">
-<span style="font-weight:bold"> Presented at: </span> <span style="color:rgb(28, 69, 135)"> 2nd Conference on Banking Development, Stability, and Sustainability (Dec. 2016)  </span>
-</p>
-</div>
+<span style="font-size:12pt"> with C. Aparicio and K. Huayta. *Journal of Financial Issues SBS Volume XII N1 2016* </span> \
+<span style="font-size:12pt"> [[Paper]](https://www.sbs.gob.pe/Portals/0/jer/rebper_2016_vol_xii/20170103_Aparicio-Bohorquez-Huayta.PDF) </span> \
+<span style="color:rgb(28, 69, 135); font-size:12pt; font-weight:bold"> *Presented at:* </span> <span style="color:rgb(28, 69, 135); text-align: justify; font-size:12pt; font-style:italic"> 2nd Conference on Banking Development, Stability, and Sustainability (Dec. 2016) </span>
 
 **Pro-cyclicality and non-linearities of the credit portfolio: evidence from Peru (1998-2015)** \
-(with C. Aparicio V. Matienzo) \
-SBS Working Paper DT-005-2016 
+<span style="font-size:12pt"> with with C. Aparicio and V. Matienzo. *SBS Working Paper DT-005-2016* </span> \
+<span style="font-size:12pt"> [[Paper]](https://www.sbs.gob.pe/Portals/0/jer/ddt_ano2016/20170606_SBS-DT-005-2016.pdf) </span> \
 
 
 {% if author.googlescholar %}
