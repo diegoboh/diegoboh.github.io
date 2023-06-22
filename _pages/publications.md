@@ -8,7 +8,7 @@ author_profile: true
 **Work in progress**
 </span>
 
-***
+<hr style="border-color: blue;">
 
 **The Dollar and Global Financial Collapse**
 
