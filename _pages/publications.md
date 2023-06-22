@@ -10,7 +10,7 @@ author_profile: true
 
 <hr style="border-color: gray;">
 
-**The Dollar and Global Financial Collapse**
+**The Dollar and Global Financial Collapse** [Draft coming soon]
 
 <style>
     .indented-paragraph {
