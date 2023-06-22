@@ -56,9 +56,8 @@ This paper analyses the interaction between macroprudential instruments using a 
 <span style="font-size:12pt"> [[Paper]](https://www.sbs.gob.pe/Portals/0/jer/rebper_2016_vol_xii/20170103_Aparicio-Bohorquez-Huayta.PDF) </span> \
 <span style="color:rgb(28, 69, 135); font-size:12pt; font-weight:bold"> *Presented at:* </span> <span style="color:rgb(28, 69, 135); text-align: justify; font-size:12pt; font-style:italic"> 2nd Conference on Banking Development, Stability, and Sustainability (Dec. 2016) </span>
 
-**Pro-cyclicality and non-linearities of the credit portfolio: evidence from Peru (1998-2015)** \
-<span style="font-size:12pt"> with with C. Aparicio and V. Matienzo. *SBS Working Paper DT-005-2016* </span> \
-<span style="font-size:12pt"> [[Paper]](https://www.sbs.gob.pe/Portals/0/jer/ddt_ano2016/20170606_SBS-DT-005-2016.pdf) </span> \
+**Pro-cyclicality and non-linearities of the credit portfolio: evidence from Peru (1998-2015)** <span style="font-size:12pt"> [[Paper]](https://www.sbs.gob.pe/Portals/0/jer/ddt_ano2016/20170606_SBS-DT-005-2016.pdf) </span> \
+<span style="font-size:12pt"> with with C. Aparicio and V. Matienzo. *SBS Working Paper DT-005-2016* </span>
 
 
 {% if author.googlescholar %}
