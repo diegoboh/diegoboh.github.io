@@ -10,7 +10,7 @@ author_profile: true
 
 <hr style="border-color: gray;">
 
-**The Dollar and Global Financial Collapse 2**
+**The Dollar and Global Financial Collapse**
 
 <style>
     .indented-paragraph {
@@ -36,23 +36,35 @@ This paper analyses the interaction between macroprudential instruments using a 
 </p>
 </div>
 
+**Cross-border lending and monetary policy spillovers**
+
 <span style="color:rgb(168, 141, 34); font-size:17pt">
 **Policy papers**
 </span>
 
-***
+<hr style="border-color: gray;">
 
 **The implications of loan maturity on the probability of default: evidence from Peruvian long-term loans** \
 <span style="font-size:12pt"> (with V. Matienzo and A. Olivares) </span> \
-<span style="font-size:12pt"> [[Working paper]](https://www.sbs.gob.pe/Portals/0/jer/DDT_ANO2017/SBS-DT-003-2017.pdf?ver=2018-02-08-124240-620) SBS Working Paper DT-003-2017 </span> 
+<span style="font-size:12pt"> [[Working paper]](https://www.sbs.gob.pe/Portals/0/jer/DDT_ANO2017/SBS-DT-003-2017.pdf?ver=2018-02-08-124240-620) SBS Working Paper DT-003-2017 </span>
+
+<div class="indented-paragraph"><p style="text-align: justify; font-size:12pt; font-style:italic">
+<span style="color:rgb(168, 141, 34); font-weight:bold"> Presented at: </span> <span style="color:rgb(28, 69, 135)"> World Bank & ASBA (Jul. 2017), Annual Congress of the Peruvian Economic Association (2017), XXXV Central Reserve Bank of Peru Annual Research Conference (Oct. 2017) </span>
+</p>
+</div>
+
+**Access to Financial Services through Retail Agents and Household Expenditures: Evidence from Peru** \
+(with C. Aparicio and K. Huayta) \
+Journal of Financial Issues SBS Volume XII N1 2016
+
+<div class="indented-paragraph"><p style="text-align: justify; font-size:12pt; font-style:italic">
+<span style="color:rgb(168, 141, 34); font-weight:bold"> Presented at: </span> <span style="color:rgb(28, 69, 135)"> 2nd Conference on Banking Development, Stability, and Sustainability (Dec. 2016)  </span>
+</p>
+</div>
 
 **Pro-cyclicality and non-linearities of the credit portfolio: evidence from Peru (1998-2015)** \
 (with C. Aparicio V. Matienzo) \
 SBS Working Paper DT-005-2016 
-
-**Access to Financial Services through Retail Agents and Household Expenditures: Evidence from Peru** \
-(with C. Aparicio and K. Huayta) \
-Journal of Financial Issues SBS Volume XII N1 2016 
 
 
 {% if author.googlescholar %}
