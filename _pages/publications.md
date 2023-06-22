@@ -49,7 +49,7 @@ This paper analyses the interaction between macroprudential instruments using a 
 **The implications of loan maturity on the probability of default: evidence from Peruvian long-term loans** \
 <span style="font-size:12pt"> (with V. Matienzo and A. Olivares). *SBS Working Paper DT-003-2017* </span> \
 <span style="font-size:12pt"> [[Working paper]](https://www.sbs.gob.pe/Portals/0/jer/DDT_ANO2017/SBS-DT-003-2017.pdf?ver=2018-02-08-124240-620) </span> \
-<span style="font-size:12pt; font-weight:bold"> *Presented at:* </span> <span style="color:rgb(28, 69, 135); text-align: justify; font-size:12pt; font-style:italic"> World Bank & ASBA (Jul. 2017), Annual Congress of the Peruvian Economic Association (2017), XXXV Central Reserve Bank of Peru Annual Research Conference (Oct. 2017) </span>
+<span style="color:rgb(28, 69, 135); font-size:12pt; font-weight:bold"> *Presented at:* </span> <span style="color:rgb(28, 69, 135); text-align: justify; font-size:12pt; font-style:italic"> World Bank & ASBA (Jul. 2017), Annual Congress of the Peruvian Economic Association (2017), XXXV Central Reserve Bank of Peru Annual Research Conference (Oct. 2017) </span>
 
 **Access to Financial Services through Retail Agents and Household Expenditures: Evidence from Peru** \
 (with C. Aparicio and K. Huayta) \
