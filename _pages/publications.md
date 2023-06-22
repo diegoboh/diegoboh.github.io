@@ -8,9 +8,9 @@ author_profile: true
 **Work in progress**
 </span>
 
-<hr style="border-color: light-gray;">
+<hr style="border-color: gray;">
 
-**The Dollar and Global Financial Collapse**
+**The Dollar and Global Financial Collapse 2**
 
 <style>
     .indented-paragraph {
