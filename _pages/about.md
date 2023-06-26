@@ -13,6 +13,7 @@ I am a PhD candidate in Economics at Pompeu Fabra University and the Barcelona S
 International macroeconomics, international finance and monetary policy.
 
 <img src="/assets/images/UPFt_rgb.png" alt="">
+<img src='/images/500x300.png'>
 
 <span style="font-size:12pt">
 <ins> Contact </ins> </span> \
