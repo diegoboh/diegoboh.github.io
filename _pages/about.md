@@ -20,8 +20,8 @@ International macroeconomics, international finance and monetary policy.
 
 <div>
     <p style="float: left;"><img src="/images/UPFt_rgb.png" width="170" height="60"></p>
-    <p> <span style="font-size:12pt"> <ins> Contact </ins> </span> &nbsp
-        <span style="font-size:12pt"> Email: diego.bohorquez@upf.edu </span> &nbsp
+    <p> <span style="font-size:12pt"> <ins> Contact </ins> </span> <br>
+        <span style="font-size:12pt"> Email: diego.bohorquez@upf.edu </span> <br>
         <span style="font-size:12pt"> Ramon Trias Fargas, 25-27, 08005 Barcelona </span>
     </p>
 </div>
