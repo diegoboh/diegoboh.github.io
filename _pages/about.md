@@ -12,7 +12,7 @@ I am a PhD candidate in Economics at Pompeu Fabra University and the Barcelona S
 **Research interests:** \
 International macroeconomics, international finance and monetary policy.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/UPFt_rgb.png" alt="">
+<img src="{{https://diegoboh.github.io/}}{{ site.baseurl }}/assets/images/UPFt_rgb.png" alt="">
 
 <span style="font-size:12pt">
 <ins> Contact </ins> </span> \
