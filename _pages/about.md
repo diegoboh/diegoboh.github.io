@@ -12,24 +12,19 @@ I am a PhD candidate in Economics at Pompeu Fabra University and the Barcelona S
 **Research interests:** \
 International macroeconomics, international finance and monetary policy.
 
-<img src="/images/UPFt_rgb.png" width="170" height="60">
+
 
 <span style="font-size:12pt"> <ins> Contact </ins> </span>\
 <span style="font-size:12pt"> Email: diego.bohorquez@upf.edu </span>\
 <span style="font-size:12pt"> Ramon Trias Fargas, 25-27, 08005 Barcelona </span>
 
-<div>
+<img src="/images/UPFt_rgb.png" width="170" height="60">
+
+<!--- Comments are Fun <div>
     <p style="float: left;"><img src="/images/UPFt_rgb.png" width="170" height="60"></p>
     <p> <span style="font-size:12pt"> <ins> Contact </ins> </span> <br>
         <span style="font-size:12pt"> Email: diego.bohorquez@upf.edu </span> <br>
         <span style="font-size:12pt"> Ramon Trias Fargas, 25-27, 08005 Barcelona </span>
     </p>
 </div>
-<div style="clear: left;">
-    <p style="float: left;"><img src="/images/UPFt_rgb.png" width="170" height="60"></p>
-    <span style="font-size:12pt"> <ins> Contact </ins> </span> 
-  
-    <span style="font-size:12pt"> Email: diego.bohorquez@upf.edu </span>
-    
-    <span style="font-size:12pt"> Ramon Trias Fargas, 25-27, 08005 Barcelona </span>
-</div>
+--->
