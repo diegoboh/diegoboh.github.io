@@ -12,7 +12,7 @@ I am a PhD candidate in Economics at Pompeu Fabra University and the Barcelona S
 **Research interests:** \
 International macroeconomics, international finance and monetary policy.
 
-<img src="img_girl.jpg" alt="Girl in a jacket" width="100" height="200">
+<img src="img_girl.jpg" alt="Girl in a jacket" width="50" height="100">
 <img src="/images/UPFt_rgb.png">
 
 <span style="font-size:12pt">
