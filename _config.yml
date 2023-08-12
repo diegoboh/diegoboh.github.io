@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "     . &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp     "
+title                    : "     &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp     "
 title_separator          : "-"
 name                     : &name "Diego Bohórquez"
 description              : &description "PhD Candidate in economics at Universitat Pompeu Fabra d"
