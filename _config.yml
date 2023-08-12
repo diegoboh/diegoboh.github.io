@@ -310,5 +310,5 @@ compress_html:
   ignore:
     envs: development
 
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "air"
