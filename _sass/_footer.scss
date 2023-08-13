@@ -15,12 +15,12 @@
   height: auto;
   /* sticky footer fix end */
   margin-top: 3em;
-  color: mix(#fff, #FF5733, 25%); // #fff, $gray, 25%
+  color: mix(#fff, #FF5733, 25%); // #fff, $gray, 25% CAMBIA EL COLOR DE LETRA
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  background-color: $lighter-gray;
+  background-color: #005091; // $light-gray   CAMBIA EL FONDO
   border-top: 1px solid $light-gray;
 
   footer {
