@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Diego Bohórquez"
 author_profile: true
 redirect_from: 
   - /about/
