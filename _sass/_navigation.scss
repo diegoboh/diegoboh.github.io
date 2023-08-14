@@ -97,7 +97,7 @@
       }
 
       &.disabled {
-        color: mix(#fff, #cf27b8, 75%; // CAMBIAR ESTO mix(#fff, $gray, 75%);
+        color: mix(#fff, $gray, 75%; // TRIED
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -232,7 +232,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: mix(#fff, #03fc20, 50%); // it had $primary-color I suspect this is the highlight under the table of contents
+        background: mix(#fff, $primary-color, 50%); // it had $primary-color I suspect this is the highlight under the table of contents
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
@@ -371,7 +371,7 @@
 
 .toc {
   font-family: $sans-serif-narrow;
-  color: #005091; // $gray CAMBIA ESTOOOOOOOOOOOOOOOOOOOOOOOOOOO
+  color: $gray; // I TRIED
   text-transform: uppercase;
   letter-spacing: 1px;
   background-color: #fff;
@@ -382,7 +382,7 @@
   .nav__title {
     color: #fff;
     font-size: $type-size-6;
-    background: $primary-color; // DID NOT WORK CAMBIA ESTOOOOOOOOOOOOOOOOOOOOOOOOOOO
+    background: $primary-color; // DID NOT WORK
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
