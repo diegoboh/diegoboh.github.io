@@ -11,15 +11,18 @@ redirect_from:
 <div class="header-title">
   <h1>{{ page.title }}</h1>
 </div>
+<style>
 .header-image {
   max-width: 200px; /* Set the maximum width for the image */
   height: auto;     /* Allow the height to adjust automatically */
   margin-bottom: 20px; /* Add some spacing between the image and title */
 }
-
+</style>
+<style>
 .header-title h1 {
   font-size: 2rem; /* Adjust font size for the title */
 }
+</style>
 
 I am a PhD candidate in Economics at Pompeu Fabra University and the Barcelona School of Economics under the supervision of Prof. [Luca Fornaro](https://crei.cat/people/fornaro/) and Prof. [Alberto Martin](https://crei.cat/people/martin/).
 
