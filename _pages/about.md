@@ -10,7 +10,7 @@ redirect_from:
 I am a PhD candidate in Economics at Pompeu Fabra University and the Barcelona School of Economics under the supervision of Prof. [Luca Fornaro](https://crei.cat/people/fornaro/) and Prof. [Alberto Martin](https://crei.cat/people/martin/).
 
 **Research interests:** \
-International macroeconomics, international finance, and monetary policy.
+International macroeconomics, international finance and monetary policy.
 
 
 
@@ -18,20 +18,21 @@ International macroeconomics, international finance, and monetary policy.
 <span style="font-size:12pt"> Email: diego.bohorquez@upf.edu </span>\
 <span style="font-size:12pt"> Ramon Trias Fargas, 25-27, 08005 Barcelona </span>
 
-<img src="/images/UPFt_rgb.png" width="170" height="60">
+<img src="/images/UPFt_rgb.png" class="scaled-image">
+<style>
+    .scaled-image {
+        max-width: 200px; /* Set the maximum width for the image */
+        height: auto;     /* Allow the height to adjust automatically */
+    }
+</style>
+
 
 <!--- Comments are Fun <div>
     <p style="float: left;">
-    <img src="/images/UPFt_rgb.png" class="scaled-image">
+    <img src="/images/UPFt_rgb.png" width="170" height="60">
     <p> <span style="font-size:12pt"> <ins> Contact </ins> </span> <br>
         <span style="font-size:12pt"> Email: diego.bohorquez@upf.edu </span> <br>
         <span style="font-size:12pt"> Ramon Trias Fargas, 25-27, 08005 Barcelona </span>
     </p>
 </div>
-<style>
-    .scaled-image {
-        max-width: 170px; /* Set the maximum width for the image */
-        height: auto;     /* Allow the height to adjust automatically */
-    }
-</style>
 --->
