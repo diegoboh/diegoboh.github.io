@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Diego Bohórquez"
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,11 +9,11 @@ redirect_from:
 
 <img src="/images/UPFt_rgb.png" alt="Your Image" class="header-image">
 <div class="header-title">
-  <h1>{{ page.title }}</h1>
+  <h1>{{ Diego Bohórquezzz }}</h1>
 </div>
 <style>
 .header-image {
-  max-width: 200px; /* Set the maximum width for the image */
+  max-width: 250px; /* Set the maximum width for the image */
   height: auto;     /* Allow the height to adjust automatically */
   margin-bottom: 20px; /* Add some spacing between the image and title */
 }
