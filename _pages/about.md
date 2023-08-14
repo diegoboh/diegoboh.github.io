@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 <img src="/images/patio_jaumewide.jpg" alt="Your Image" class="header-image">
+<!--- Comments are Fun
 <div class="header-title">
   <h1> Diego Bohórquez </h1>
 </div>
@@ -24,6 +25,7 @@ redirect_from:
   font-size: 2rem; /* Adjust font size for the title */
 }
 </style>
+--->
 
 I am a PhD candidate in Economics at Pompeu Fabra University and the Barcelona School of Economics under the supervision of Prof. [Luca Fornaro](https://crei.cat/people/fornaro/) and Prof. [Alberto Martin](https://crei.cat/people/martin/).
 
@@ -32,7 +34,7 @@ International macroeconomics, international finance and monetary policy.
 
 
 
-<span style="font-size:12pt"> <ins> Contact </ins> </span>\
+**Contact:** \
 <span style="font-size:12pt"> Email: diego.bohorquez@upf.edu </span>\
 <span style="font-size:12pt"> Ramon Trias Fargas, 25-27, 08005 Barcelona </span>
 
