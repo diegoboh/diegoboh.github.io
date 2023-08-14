@@ -143,8 +143,7 @@
     .page__lead,
     .btn {
       color: #fff; 
-      //text-shadow: 1px 1px 4px rgba(#000, 0.5);
-      text-shadow: 3px 3px 4px rgba(#000, 0.8); 
+      text-shadow: 1px 1px 4px rgba(#000, 0.5); //nt doing anything... 
     }
 
     .page__lead {
@@ -153,7 +152,6 @@
 
     .page__title {
       font-size: $type-size-2;
-      color: #fff; // I can delete it
        
       @include breakpoint($small) {
         font-size: $type-size-1;
