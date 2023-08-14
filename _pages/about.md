@@ -13,7 +13,8 @@ redirect_from:
 </div>
 <style>
 .header-image {
-  max-width: 500px; /* Set the maximum width for the image */
+  /*max-width: 500px; /* Set the maximum width for the image */
+  width: 100%;
   height: auto;     /* Allow the height to adjust automatically */
   margin-bottom: 20px; /* Add some spacing between the image and title */
 }
