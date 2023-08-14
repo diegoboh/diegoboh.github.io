@@ -9,7 +9,7 @@ redirect_from:
 
 <img src="/images/UPFt_rgb.png" alt="Your Image" class="header-image">
 <div class="header-title">
-  <h1>{{ Diego Bohórquezzz }}</h1>
+  <h1> Diego Bohórquezzz </h1>
 </div>
 <style>
 .header-image {
