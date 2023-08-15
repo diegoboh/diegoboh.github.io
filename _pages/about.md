@@ -31,7 +31,7 @@ redirect_from:
 
 Hello! I am a **PhD candidate in Economics at Pompeu Fabra University** and the Barcelona School of Economics under the supervision of Prof. [Luca Fornaro](https://crei.cat/people/fornaro/) and Prof. [Alberto Martin](https://crei.cat/people/martin/).
 
-My research interests are in **international macroeconomics, international finance, and banking**.
+My research interests are in **international macroeconomics, international finance, and banking**
 
 Currently, my research is focused on the interaction between the international financial system's fragility and macroeconomic outcomes, with an emphasis on policy interventions with global spillovers.
 
