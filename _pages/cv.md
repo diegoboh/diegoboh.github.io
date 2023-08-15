@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Fou can find my CV [here](https://diegoboh.github.io/files/CV - Diego Bohorquez - Jul. 2023.pdf).
+
 <!--- Comments are Fun <div>
 
 Work experience
