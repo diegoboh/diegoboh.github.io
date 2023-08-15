@@ -9,18 +9,19 @@ redirect_from:
 
 <img src="/images/patio_jaumewide.jpg" alt="Your Image" class="header-image">
 
-<!--- Comments are Fun <div>
-<div class="header-title">
-  <h1> Diego Bohórquez </h1>
-</div>
 <style>
 .header-image {
   /*max-width: 500px; /* Set the maximum width for the image */
   width: 100%;
   height: auto;     /* Allow the height to adjust automatically */
-  margin-bottom: 20px; /* Add some spacing between the image and title */
+  margin-bottom: 30px; /* Add some spacing between the image and title */
 }
 </style>
+
+<!--- Comments are Fun <div>
+<div class="header-title">
+  <h1> Diego Bohórquez </h1>
+</div>
 <style>
 .header-title h1 {
   font-size: 2rem; /* Adjust font size for the title */
