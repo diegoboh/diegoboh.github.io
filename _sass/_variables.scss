@@ -120,13 +120,13 @@ $x-large                    : 1280px !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow : 100px; // 0px is the default
-$right-sidebar-width        : 100px; // 0px is the default
-$right-sidebar-width-wide   : 100px; // 0px is the default
+$right-sidebar-width-narrow : 0px; // 0px is the default
+$right-sidebar-width        : 0px; // 0px is the default
+$right-sidebar-width-wide   : 0px; // 0px is the default
 
 $susy: (
   columns: 12,
-  column-width: 120px,
+  column-width: 150px, // 120px is the default
   gutters: 1/4,
   math: fluid,
   output: float,
