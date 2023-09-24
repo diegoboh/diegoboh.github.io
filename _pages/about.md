@@ -35,7 +35,7 @@ Hello! I am a **PhD candidate in Economics at Pompeu Fabra University** and the 
 
 My research interests: **international macroeconomics, international finance, and monetary policy**.
 
-Currently, I am studying the role of global banks in international macroeconomics, with emphasis on the dollar, exchange rates, and policy interventions with global spillovers.
+Currently, I am studying the role of global banks in international macroeconomics, focusing on the dollar, exchange rates, and policy interventions with global implications."
 
 I will be on the job market in 2023/2024.
 
