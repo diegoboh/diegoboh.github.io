@@ -10,7 +10,7 @@ author_profile: true
 
 <hr style="border-color: gray;">
 
-**The Dollar and Global Financial Collapse**  <span style="font-size:12pt"> [Draft coming soon] </span>
+**The United States as the International Lender of Last Resort**  <span style="font-size:12pt"> [Draft coming soon] </span>
 
 <style>
     .indented-paragraph {
@@ -29,14 +29,14 @@ This paper explores the macroeconomic implications of the Fed acting as the inte
 </p>
 </div>
 
-**Macroprudential rules in a small open economy: a DSGE approach** <span style="font-size:12pt"> [[Preliminary draft]](https://drive.google.com/file/d/1En5P56qqq0DXlj05VDm0U6BFRAsKBQLK/view?usp=sharing) </span>
+**Macroprudential Rules in a Small Open Economy: a DSGE Approach** <span style="font-size:12pt"> [[Preliminary draft]](https://drive.google.com/file/d/1En5P56qqq0DXlj05VDm0U6BFRAsKBQLK/view?usp=sharing) </span>
 
 <div class="indented-paragraph"><p style="text-align: justify; font-size:12pt">
-This paper analyses the interaction between macroprudential instruments using a dynamic stochastic general equilibrium (DSGE) for a small-open economy with financial and nominal frictions. Using different objectives for the monetary authority, we try to find the optimal policy rules involving dynamic capital and reserve requirements. Given the frictions present in the model, the gains from adapting reserve and capital requirements to economic conditions are substantial, especially if financial stability is included as an objective of the Central Bank. Regarding the differences between the two instruments, the most important is that, contrary to capital requirements, an increase in reserve requirements leads to higher inflation and has an ambiguous impact on output. Finally, in the scenario of a financial stability objective and strict separation of tasks by instrument, reserve requirements provide a slightly better response to the exogenous shocks in the economy than capital requirements.
+This paper analyses the interaction between macroprudential instruments using a dynamic stochastic general equilibrium (DSGE) for a small open economy with financial and nominal frictions. Using different objectives for the monetary authority, we try to find the optimal policy rules involving dynamic capital and reserve requirements. Given the frictions present in the model, the gains from adapting reserve and capital requirements to economic conditions are substantial, especially if financial stability is included as an objective of the Central Bank. Regarding the differences between the two instruments, the most important is that, contrary to capital requirements, an increase in reserve requirements leads to higher inflation and has an ambiguous impact on output. Finally, in the scenario of a financial stability objective and strict separation of tasks by instrument, reserve requirements provide a slightly better response to the exogenous shocks in the economy than capital requirements.
 </p>
 </div>
 
-**Cross-border lending and monetary policy spillovers**
+**Cross-border Lending, Global Banks, and Monetary Policy Spillovers**
 
 &nbsp;
 
