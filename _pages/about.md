@@ -35,7 +35,12 @@ Hello!
 
 I am a <span style="color:#005091;">**PhD candidate in Economics at Pompeu Fabra University**</span> and the Barcelona School of Economics under the supervision of Prof. [Luca Fornaro](https://crei.cat/people/fornaro/) and Prof. [Alberto Martin](https://crei.cat/people/martin/).
 
-My research interests are: **international macroeconomics, international finance, and monetary policy**.
+My research interests are:
+<ul>
+  <li> International Macroeconomics </li>
+  <li> International Finance </li>
+  <li> Monetary Policy </li>
+</ul>
 
 Currently, I am studying the role of global banks in international macroeconomics, focusing on the dollar, exchange rates, and policy interventions with global implications.
 
@@ -62,6 +67,6 @@ I will be on the job market in 2023/2024.
     <p> <span style="font-size:12pt"> <ins> Contact </ins> </span> <br>
         <span style="font-size:12pt"> Email: diego.bohorquez@upf.edu </span> <br>
         <span style="font-size:12pt"> Ramon Trias Fargas, 25-27, 08005 Barcelona </span>
-    </p>
+    </p> **international macroeconomics, international finance, and monetary policy**.
 </div>
 --->
