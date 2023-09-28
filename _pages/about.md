@@ -31,12 +31,10 @@ redirect_from:
 </div>
 --->
 
-Hello!
+Hello! I am a <span style="color:#005091;">**PhD candidate in Economics at Pompeu Fabra University**</span> and the Barcelona School of Economics under the supervision of Prof. [Luca Fornaro](https://crei.cat/people/fornaro/) and Prof. [Alberto Martin](https://crei.cat/people/martin/).
 
-I am a <span style="color:#005091;">**PhD candidate in Economics at Pompeu Fabra University**</span> and the Barcelona School of Economics under the supervision of Prof. [Luca Fornaro](https://crei.cat/people/fornaro/) and Prof. [Alberto Martin](https://crei.cat/people/martin/).
-
-My research interests are x:
-<ul style="margin-top: -10px;">
+My research interests are:
+<ul style="margin-top: -15px;">
   <li> International Macroeconomics</li>
   <li> International Finance</li>
   <li> Monetary Policy</li>
