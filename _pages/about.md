@@ -31,7 +31,7 @@ redirect_from:
 </div>
 --->
 
-Hello! I am a <span style="color:red;">**PhD candidate in Economics at Pompeu Fabra University**</span> and the Barcelona School of Economics under the supervision of Prof. [Luca Fornaro](https://crei.cat/people/fornaro/) and Prof. [Alberto Martin](https://crei.cat/people/martin/).
+Hello! I am a <span style="color:#005091;">**PhD candidate in Economics at Pompeu Fabra University**</span> and the Barcelona School of Economics under the supervision of Prof. [Luca Fornaro](https://crei.cat/people/fornaro/) and Prof. [Alberto Martin](https://crei.cat/people/martin/).
 
 My research interests: **international macroeconomics, international finance, and monetary policy**.
 
