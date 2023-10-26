@@ -39,7 +39,7 @@ My research interests are <span style="color:#005091;">**International Macroecon
 
 Currently, I am studying the role of global banks in international macroeconomics, focusing on the dollar, exchange rates, and policy interventions with global implications.
 
-I will be on the job market in 2023/2024.
+I am on the job market in 2023/2024.
 
 <br>
 
