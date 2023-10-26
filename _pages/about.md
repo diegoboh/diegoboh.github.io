@@ -58,8 +58,12 @@ I am on the job market in 2023/2024.
 -->
 
 <div class="image-container">
-    <img src="/images/UPFt_rgb.png" class="scaled-image">
-    <img src="/images/bse_logo.jpg" class="scaled-image">
+    <div class="image-wrapper">
+        <img src="/images/UPFt_rgb.png" class="scaled-image">
+    </div>
+    <div class="image-wrapper">
+        <img src="/images/bse_logo.jpg" class="scaled-image smaller-image">
+    </div>
 </div>
 
 <style>
@@ -67,15 +71,18 @@ I am on the job market in 2023/2024.
         display: flex;
         align-items: center;
     }
-    
+
+    .image-wrapper {
+        margin-right: 10px; /* Add margin between the images */
+    }
+
     .scaled-image {
         max-width: 200px;
         height: auto;
-        margin-right: 10px;
     }
 
     .smaller-image {
-        max-width: 150px !important; /* Add !important to prioritize this rule */
+        max-width: 150px; /* Adjust the max-width for the smaller image */
     }
 </style>
 
