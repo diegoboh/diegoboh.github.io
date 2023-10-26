@@ -58,7 +58,7 @@ I am on the job market in 2023/2024.
 
 <div class="image-container">
     <img src="/images/UPFt_rgb.png" class="scaled-image">
-    <img src="/images/UPFt_rgb.png" class="scaled-image">
+    <img src="/images/bse_logo.jpg" class="scaled-image">
 </div>
 -->
 
@@ -71,6 +71,7 @@ I am on the job market in 2023/2024.
     .scaled-image {
         max-width: 200px;
         height: auto;
+        margin-right: 10px; /* Add margin between the images */
     }
 </style>
 
