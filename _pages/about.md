@@ -71,7 +71,11 @@ I am on the job market in 2023/2024.
     .scaled-image {
         max-width: 200px;
         height: auto;
-        margin-right: 10px; /* Add margin between the images */
+        margin-right: 10px;
+    }
+
+    .smaller-image {
+        max-width: 175px; /* Adjust the max-width for the smaller image */
     }
 </style>
 
