@@ -47,6 +47,7 @@ I am on the job market in 2023/2024.
 <span style="font-size:12pt"> Email: diego.bohorquez@upf.edu </span>\
 <span style="font-size:12pt"> Ramon Trias Fargas, 25-27, 08005 Barcelona </span>
 
+<!---
 <img src="/images/UPFt_rgb.png" class="scaled-image">
 <style>
     .scaled-image {
@@ -59,6 +60,7 @@ I am on the job market in 2023/2024.
     <img src="/images/UPFt_rgb.png" class="scaled-image">
     <img src="/images/UPFt_rgb.png" class="scaled-image">
 </div>
+-->
 
 <style>
     .image-container {
