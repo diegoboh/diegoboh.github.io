@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<!---
 <img src="/images/patio_jaumewide.jpg" alt="Your Image" class="header-image">
 
 <style>
@@ -18,7 +18,7 @@ redirect_from:
   margin-bottom: 30px; /* Add some spacing between the image and title */
 }
 </style>
-
+-->
 <!--- Comments are Fun <div>
 <div class="header-title">
   <h1> Diego Bohórquez </h1>
@@ -31,7 +31,9 @@ redirect_from:
 </div>
 --->
 
-Hello! I am a <span style="color:#005091;">**PhD candidate in Economics at Pompeu Fabra University**</span> and the Barcelona School of Economics under the supervision of Prof. [Luca Fornaro](https://crei.cat/people/fornaro/) and Prof. [Alberto Martin](https://crei.cat/people/martin/).
+Welcome!
+
+I am a <span style="color:#005091;">**PhD candidate in Economics at Pompeu Fabra University**</span> and the Barcelona School of Economics under the supervision of Prof. [Luca Fornaro](https://crei.cat/people/fornaro/) and Prof. [Alberto Martin](https://crei.cat/people/martin/).
 
 My research interests are <span style="color:#005091;">**International Macroeconomics, International Finance, and Monetary Policy**</span>.
 
