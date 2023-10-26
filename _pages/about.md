@@ -55,12 +55,12 @@ I am on the job market in 2023/2024.
         height: auto;     /* Allow the height to adjust automatically */
     }
 </style>
+-->
 
 <div class="image-container">
     <img src="/images/UPFt_rgb.png" class="scaled-image">
     <img src="/images/bse_logo.jpg" class="scaled-image">
 </div>
--->
 
 <style>
     .image-container {
