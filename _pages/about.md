@@ -75,7 +75,7 @@ I am on the job market in 2023/2024.
     }
 
     .smaller-image {
-        max-width: 175px; /* Adjust the max-width for the smaller image */
+        max-width: 100px; /* Adjust the max-width for the smaller image */
     }
 </style>
 
