@@ -54,13 +54,25 @@ I am on the job market in 2023/2024.
         height: auto;     /* Allow the height to adjust automatically */
     }
 </style>
-<img src="/images/UPFt_rgb.png" class="scaled-image">
+
+<div class="image-container">
+    <img src="/images/UPFt_rgb.png" class="scaled-image">
+    <img src="/images/UPFt_rgb.png" class="scaled-image">
+</div>
+
 <style>
+    .image-container {
+        display: flex;
+        align-items: center;
+    }
+    
     .scaled-image {
-        max-width: 200px; /* Set the maximum width for the image */
-        height: auto;     /* Allow the height to adjust automatically */
+        max-width: 200px;
+        height: auto;
     }
 </style>
+
+
 
 <!--- Comments are Fun <div>
     <p style="float: left;">
