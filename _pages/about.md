@@ -62,7 +62,7 @@ I am on the job market in 2023/2024.
         <img src="/images/UPFt_rgb.png" class="scaled-image">
     </div>
     <div class="image-wrapper">
-        <img src="/images/bse_logo.jpg" class="scaled-image smaller-image">
+        <img src="/images/bse_logo.png" class="scaled-image smaller-image">
     </div>
 </div>
 
