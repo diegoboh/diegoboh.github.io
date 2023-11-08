@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV [here](http://diegoboh.github.io/files/CV-DB-September.pdf).
+You can find my CV [here](http://diegoboh.github.io/files/CV-DB.pdf).
 
 <!--- Comments are Fun <div>
 
