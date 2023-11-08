@@ -25,7 +25,7 @@ This paper provides a stylized framework to study the role of the United States 
 </div>
 
 <div class="indented-paragraph"><p style="text-align: justify; font-size:12pt; font-style:italic">
-<span style="color:rgb(28, 69, 135); font-weight:bold"> Presented at: </span> <span style="color:rgb(28, 69, 135)"> 2nd Sailing the Macro Workshop (Sep. 2022), Naples School of Economics PhD Workshop (Sep. 2022), BdF-BoE-BoI International-Macro Workshop (Nov. 2022), SAEe (Dec. 2022), CREi MacroLunch (May 2022/Mar. 2023), Université Paris Nanterre PhD Conference (Apr. 2023), LBS TADC (May 2023), Journal of International Economics Summer School (Poster, Jun. 2023), XXVI Workshop on Dynamic Macro (sched. Jul. 2023), EEA (sched Aug. 2023) </span>
+<span style="color:rgb(28, 69, 135); font-weight:bold"> Presented at: </span> <span style="color:rgb(28, 69, 135)"> 2nd Sailing the Macro Workshop (Sep. 2022), Naples School of Economics PhD Workshop (Sep. 2022), BdF-BoE-BoI International-Macro Workshop (Nov. 2022), SAEe (Dec. 2022), CREi MacroLunch (May 2022/Mar. 2023), Université Paris Nanterre PhD Conference (Apr. 2023), LBS TADC (May 2023), Journal of International Economics Summer School (Poster, Jun. 2023), XXVI Workshop on Dynamic Macro (Jul. 2023), EEA (Aug. 2023) </span>
 </p>
 </div>
 
