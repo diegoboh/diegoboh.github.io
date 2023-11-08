@@ -10,7 +10,7 @@ author_profile: true
 
 <hr style="border-color: gray;">
 
-**The United States as the International Lender of Last Resort**  <span style="font-size:12pt"> [[Paper]](https://diegoboh.github.io/files/JMP-DB.pdf) </span>
+**The United States as the International Lender of Last Resort** (Job Market Paper)  <span style="font-size:12pt"> [[Paper]](https://diegoboh.github.io/files/JMP-DB.pdf) </span>
 
 <style>
     .indented-paragraph {
