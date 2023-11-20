@@ -29,7 +29,7 @@ This paper provides a stylized framework to study the role of the United States 
 </p>
 </div>
 
-&nbsp;
+
 
 <span style="color:rgb(168, 141, 34); font-size:17pt">
 **Work in progress**
@@ -48,7 +48,7 @@ This paper analyses the interaction between macroprudential instruments using a 
 
 **Cross-border Lending, Global Banks, and Monetary Policy Spillovers**
 
-&nbsp;
+
 
 <span style="color:rgb(168, 141, 34); font-size:17pt">
 **Policy papers**
