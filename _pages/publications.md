@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <span style="color:rgb(168, 141, 34); font-size:17pt">
-**Work in progress**
+**Job Market Paper**
 </span>
 
 <hr style="border-color: gray;">
@@ -28,6 +28,14 @@ This paper provides a stylized framework to study the role of the United States 
 <span style="color:rgb(28, 69, 135); font-weight:bold"> Presented at: </span> <span style="color:rgb(28, 69, 135)"> 2nd Sailing the Macro Workshop (Sep. 2022), Naples School of Economics PhD Workshop (Sep. 2022), BdF-BoE-BoI International-Macro Workshop (Nov. 2022), SAEe (Dec. 2022), CREi MacroLunch (May 2022/Mar. 2023), Université Paris Nanterre PhD Conference (Apr. 2023), LBS TADC (May 2023), Journal of International Economics Summer School (Poster, Jun. 2023), XXVI Workshop on Dynamic Macro (Jul. 2023), EEA (Aug. 2023) </span>
 </p>
 </div>
+
+&nbsp;
+
+<span style="color:rgb(168, 141, 34); font-size:17pt">
+**Work in progress**
+</span>
+
+<hr style="border-color: gray;">
 
 **Macroprudential Rules in a Small Open Economy: a DSGE Approach** <span style="font-size:12pt"> [[Paper]](https://diegoboh.github.io/files/DSGEmacropru.pdf) </span> 
 
