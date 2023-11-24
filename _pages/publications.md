@@ -54,7 +54,7 @@ This paper analyses the interaction between macroprudential instruments using a 
 
 <hr style="border-color: gray;">
 
-**The implications of loan maturity on the probability of default: evidence from Peruvian loans** <span style="font-size:12pt"> [[Paper]](https://diegoboh.github.io/files/MaturityDefault.pdf) </span> \
+**The Implications of Loan Maturity on the Probability of Default: Evidence from Peruvian Loans** <span style="font-size:12pt"> [[Paper]](https://diegoboh.github.io/files/MaturityDefault.pdf) </span> \
 <span style="font-size:12pt"> with V. Matienzo and A. Olivares. *SBS Working Paper DT-003-2017* </span> \
 <span style="color:rgb(28, 69, 135); font-size:12pt; font-weight:bold"> *Presented at:* </span> <span style="color:rgb(28, 69, 135); text-align: justify; font-size:12pt; font-style:italic"> World Bank & ASBA (Jul. 2017), Annual Congress of the Peruvian Economic Association (2017), XXXV Central Reserve Bank of Peru Annual Research Conference (Oct. 2017) </span>
 
@@ -62,7 +62,7 @@ This paper analyses the interaction between macroprudential instruments using a 
 <span style="font-size:12pt"> with C. Aparicio and K. Huayta. *Journal of Financial Issues SBS Volume XII N1 2016* </span> \
 <span style="color:rgb(28, 69, 135); font-size:12pt; font-weight:bold"> *Presented at:* </span> <span style="color:rgb(28, 69, 135); text-align: justify; font-size:12pt; font-style:italic"> 2nd Conference on Banking Development, Stability, and Sustainability (Dec. 2016) </span>
 
-**Pro-cyclicality and non-linearities of the credit portfolio: evidence from Peru (1998-2015)** <span style="font-size:12pt"> [[Paper]](https://diegoboh.github.io/files/ProcyclicalityCredit.pdf) </span> \
+**Pro-cyclicality and Non-linearities of the Credit Portfolio: evidence from Peru (1998-2015)** <span style="font-size:12pt"> [[Paper]](https://diegoboh.github.io/files/ProcyclicalityCredit.pdf) </span> \
 <span style="font-size:12pt"> with C. Aparicio and V. Matienzo. *SBS Working Paper DT-005-2016* </span>
 
 {% if author.googlescholar %}
