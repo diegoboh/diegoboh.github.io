@@ -10,7 +10,7 @@ redirect_from:
 
 <div style="height:10px;font-size:12pt;">&nbsp;</div>
 
-I am a <span style="color:#005091;">**PhD candidate in Economics at Pompeu Fabra University**</span> and the Barcelona School of Economics under the supervision of Prof. [Luca Fornaro](https://crei.cat/people/fornaro/) and Prof. [Alberto Martin](https://crei.cat/people/martin/).
+I am a **PhD candidate in Economics at Pompeu Fabra University** and the Barcelona School of Economics under the supervision of Prof. [Luca Fornaro](https://crei.cat/people/fornaro/) and Prof. [Alberto Martin](https://crei.cat/people/martin/).
 
 Currently, I am studying the role of global banks in international macroeconomics, focusing on the dollar, exchange rates, and policy interventions with global implications.
 
@@ -72,7 +72,7 @@ My research interests are <span style="color:#005091;">**International Macroecon
 
 
 <!--- Comments are Fun <div>
-    <p style="float: left;"> AZUL: color:#005091;
+    <p style="float: left;"> AZUL: <span style="color:#005091;"> </span>
     <img src="/images/UPFt_rgb.png" width="170" height="60">
     <p> <span style="font-size:12pt"> <ins> Contact </ins> </span> <br>
         <span style="font-size:12pt"> Email: diego.bohorquez@upf.edu </span> <br>
