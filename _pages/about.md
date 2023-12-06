@@ -10,11 +10,11 @@ redirect_from:
 
 <div style="height:10px;font-size:12pt;">&nbsp;</div>
 
-I am a <span style="color:rgb(168, 141, 34);">**PhD candidate in Economics at Pompeu Fabra University**</span> and the Barcelona School of Economics under the supervision of Prof. [Luca Fornaro](https://crei.cat/people/fornaro/) and Prof. [Alberto Martin](https://crei.cat/people/martin/).
+I am a <span style="color:#005091;">**PhD candidate in Economics at Pompeu Fabra University**</span> and the Barcelona School of Economics under the supervision of Prof. [Luca Fornaro](https://crei.cat/people/fornaro/) and Prof. [Alberto Martin](https://crei.cat/people/martin/).
 
 Currently, I am studying the role of global banks in international macroeconomics, focusing on the dollar, exchange rates, and policy interventions with global implications.
 
-**I am on the job market in 2023/2024.**
+<span style="color:rgb(168, 141, 34);"> **I am on the job market in 2023/2024.** </span>
 
 **Research interests:**
 <ul style="margin-top: -15px;">
