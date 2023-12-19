@@ -22,7 +22,7 @@ Currently, I am studying the role of global banks in international macroeconomic
 <ul style="margin-top: -15px;">
   <li> International Macroeconomics</li>
   <li> International Finance</li>
-  <li> Monetary Policy</li>
+  <li> Banking</li>
 </ul>
 
 <br>
