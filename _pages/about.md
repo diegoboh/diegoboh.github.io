@@ -14,6 +14,8 @@ I am a **PhD candidate in Economics at Pompeu Fabra University** and the Barcelo
 
 Currently, I am studying the role of global banks in international macroeconomics, focusing on the dollar, exchange rates, and policy interventions with global implications.
 
+I will join the **Bank of Italy** as a Research Fellow in September 2024.
+
 <!---
 <span style="color:rgb(168, 141, 34);"> **I am on the job market in 2023/2024.** </span>
 -->
