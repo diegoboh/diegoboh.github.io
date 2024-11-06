@@ -10,11 +10,15 @@ redirect_from:
 
 <div style="height:10px;font-size:12pt;">&nbsp;</div>
 
-I am a **PhD candidate in Economics at Pompeu Fabra University** and the Barcelona School of Economics under the supervision of Prof. [Luca Fornaro](https://crei.cat/people/fornaro/) and Prof. [Alberto Martin](https://crei.cat/people/martin/).
+I am a **Research Fellow** at the Financial Stability Division of the <span style="color:#005091;">**Bank of Italy**</span>.
+
+I obtained my **PhD in Economics from Pompeu Fabra University** and the Barcelona School of Economics, under the supervision of Prof. [Luca Fornaro](https://crei.cat/people/fornaro/) and Prof. [Alberto Martin](https://crei.cat/people/martin/).
 
 Currently, I am studying the role of global banks in international macroeconomics, focusing on the dollar, exchange rates, and policy interventions with global implications.
 
+<!--- Comments are Fun
 I will join the <span style="color:#005091;">**Bank of Italy**</span> as a Research Fellow in September 2024.
+-->
 
 <!---
 <span style="color:rgb(168, 141, 34);"> **I am on the job market in 2023/2024.** </span>
@@ -30,8 +34,8 @@ I will join the <span style="color:#005091;">**Bank of Italy**</span> as a Resea
 <br>
 
 **Contact:** \
-<span style="font-size:12pt"> Email: diego.bohorquez@upf.edu </span>\
-<span style="font-size:12pt"> Ramon Trias Fargas, 25-27, 08005 Barcelona </span>
+<span style="font-size:12pt"> Email: diego.bohorquez@upf.edu, bohorquezmde@gmail.com </span>\
+<span style="font-size:12pt"> Via Nazionale 91, 00184 Rome </span>
 
 <!---
 My research interests are <span style="color:#005091;">**International Macroeconomics, International Finance, and Monetary Policy**</span>.
