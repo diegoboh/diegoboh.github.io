@@ -10,7 +10,7 @@ redirect_from:
 
 <div style="height:10px;font-size:12pt;">&nbsp;</div>
 
-I am a <span style="color:#005091;">**Research Fellow** at the **Bank of Italy**</span>.
+I am a <span style="color:#005091;">**Research Fellow** at the **Bank of Italy**</span>, working in the Financial Stability Directorate.
 
 I obtained my PhD in Economics from **Pompeu Fabra University** and the Barcelona School of Economics, under the supervision of Prof. [Luca Fornaro](https://crei.cat/people/fornaro/) and Prof. [Alberto Martin](https://crei.cat/people/martin/).
 
