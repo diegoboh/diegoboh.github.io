@@ -12,7 +12,7 @@ redirect_from:
 
 I am a <span style="color:#005091;">**Research Fellow** at the **Bank of Italy**</span>.
 
-I obtained my **PhD in Economics from Pompeu Fabra University** and the Barcelona School of Economics, under the supervision of Prof. [Luca Fornaro](https://crei.cat/people/fornaro/) and Prof. [Alberto Martin](https://crei.cat/people/martin/).
+I obtained my PhD in Economics from **Pompeu Fabra University** and the Barcelona School of Economics, under the supervision of Prof. [Luca Fornaro](https://crei.cat/people/fornaro/) and Prof. [Alberto Martin](https://crei.cat/people/martin/).
 
 Currently, I am studying the role of global banks in international macroeconomics, focusing on the dollar, exchange rates, and policy interventions with global implications.
 
