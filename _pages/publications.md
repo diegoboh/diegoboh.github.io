@@ -35,11 +35,12 @@ This paper provides a stylized framework to study the role of the United States 
 
 <hr style="border-color: gray;">
 
-**Macroprudential Rules in a Small Open Economy: a DSGE Approach** <span style="font-size:12pt"> [[Paper]](https://diegoboh.github.io/files/DSGEmacropru.pdf) </span> \
+**Countercyclical Capital and Reserve Requirements in a Small Open Economy** <span style="font-size:12pt"> [[Paper]](https://diegoboh.github.io/files/DSGEmacropru.pdf) </span> \
 <span style="font-size:12pt"> with [A. Contreras](https://sites.google.com/view/acontrerasmellado/home) </span>
 
 <div class="indented-paragraph"><p style="text-align: justify; font-size:12pt">
-This paper analyses the interaction between macroprudential instruments using a dynamic stochastic general equilibrium (DSGE) for a small open economy with financial and nominal frictions. Using different objectives for the monetary authority, we try to find the optimal policy rules involving dynamic capital and reserve requirements. Given the frictions present in the model, the gains from adapting reserve and capital requirements to economic conditions are substantial, especially if financial stability is included as an objective of the Central Bank. Regarding the differences between the two instruments, the most important is that, contrary to capital requirements, an increase in reserve requirements leads to higher inflation and has an ambiguous impact on output. Finally, in the scenario of a financial stability objective and strict separation of tasks by instrument, reserve requirements provide a slightly better response to the exogenous shocks in the economy than capital requirements.
+This paper analyses the interaction between macroprudential instruments in a small open economy using a dynamic stochastic general equilibrium (DSGE) with financial and nominal frictions.
+Our model includes a rich yet parsimonious banking sector that allows us to analyze the distinct channels through which policy instruments operate, particularly through interest rate spreads and balance sheet composition. Using various objectives for the monetary authority, we study the optimal policy rules involving countercyclical capital and reserve requirements. Given the multiple frictions present in the model, the gains from adapting reserve and capital requirements to economic conditions are substantial, especially if financial stability is included as an objective of the central bank. Contrary to capital requirements, an increase in reserve requirements leads to higher inflation and has an ambiguous impact on output. Lastly, under a financial stability objective with a strict separation of tasks, reserve requirements respond slightly better to exogenous shocks in the economy compared to capital requirements.
 </p>
 </div>
 
