@@ -25,7 +25,7 @@ This paper provides a stylized framework to study the role of the United States 
 </div>
 
 <div class="indented-paragraph"><p style="text-align: justify; font-size:12pt; font-style:italic; margin-bottom: 30px">
-<span style="color:rgb(28, 69, 135); font-weight:bold"> Presented at: </span> <span style="color:rgb(28, 69, 135)"> 2nd Sailing the Macro Workshop (Sep. 2022), Naples School of Economics PhD Workshop (Sep. 2022), BdF-BoE-BoI International-Macro Workshop (Nov. 2022), SAEe (Dec. 2022), CREi MacroLunch (May 2022/Mar. 2023), Université Paris Nanterre PhD Conference (Apr. 2023), LBS TADC (May 2023), Journal of International Economics Summer School (Poster, Jun. 2023), XXVI Workshop on Dynamic Macro (Jul. 2023), EEA (Aug. 2023), LSE-Oxford Workshop on International Macroeconomics and Finance (May 2024) </span>
+<span style="color:rgb(28, 69, 135); font-weight:bold"> Presented at: </span> <span style="color:rgb(28, 69, 135)"> 2nd Sailing the Macro Workshop (Sep. 2022), Naples School of Economics PhD Workshop (Sep. 2022), BdF-BoE-BoI International-Macro Workshop (Nov. 2022), SAEe (Dec. 2022), CREi MacroLunch (May 2022/Mar. 2023), Université Paris Nanterre PhD Conference (Apr. 2023), LBS TADC (May 2023), Journal of International Economics Summer School (Poster, Jun. 2023), XXVI Workshop on Dynamic Macro (Jul. 2023), EEA (Aug. 2023), LSE-Oxford Workshop on International Macroeconomics and Finance (May 2024), Theories and Methods in Macroeconomics (May 2025) </span>
 </p>
 </div>
 
@@ -41,6 +41,11 @@ This paper provides a stylized framework to study the role of the United States 
 <div class="indented-paragraph"><p style="text-align: justify; font-size:12pt">
 This paper analyses the interaction between macroprudential instruments in a small open economy using a dynamic stochastic general equilibrium (DSGE) with financial and nominal frictions.
 Our model includes a rich yet parsimonious banking sector that allows us to analyze the distinct channels through which policy instruments operate, particularly through interest rate spreads and balance sheet composition. Using various objectives for the monetary authority, we study the optimal policy rules involving countercyclical capital and reserve requirements. Given the multiple frictions present in the model, the gains from adapting reserve and capital requirements to economic conditions are substantial, especially if financial stability is included as an objective of the central bank. Contrary to capital requirements, an increase in reserve requirements leads to higher inflation and has an ambiguous impact on output. Lastly, under a financial stability objective with a strict separation of tasks, reserve requirements respond slightly better to exogenous shocks in the economy compared to capital requirements.
+</p>
+</div>
+
+<div class="indented-paragraph"><p style="text-align: justify; font-size:12pt; font-style:italic; margin-bottom: 30px">
+<span style="color:rgb(28, 69, 135); font-weight:bold"> Presented at: </span> <span style="color:rgb(28, 69, 135)"> EIEF (Mar. 2025), CEMLA LAJCB Conference (May 2025) </span>
 </p>
 </div>
 
