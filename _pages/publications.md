@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 <span style="color:rgb(168, 141, 34); font-size:17pt">
-**Job Market Paper**
+**Working Papers**
 </span>
 
 <hr style="border-color: gray;">
 
-**The United States as the International Lender of Last Resort** (Job Market Paper)  <span style="font-size:12pt"> [[Paper]](https://diegoboh.github.io/files/JMP-DB.pdf) </span>
+**The United States as the International Lender of Last Resort**  <span style="font-size:12pt"> [[Paper]](https://diegoboh.github.io/files/JMP-DB.pdf) </span>
 
 <style>
     .indented-paragraph {
@@ -29,12 +29,6 @@ This paper provides a stylized framework to study the role of the United States 
 </p>
 </div>
 
-<span style="color:rgb(168, 141, 34); font-size:17pt">
-**Work in progress**
-</span>
-
-<hr style="border-color: gray;">
-
 **Countercyclical Capital and Reserve Requirements in a Small Open Economy** <span style="font-size:12pt"> [[Paper]](https://diegoboh.github.io/files/DSGEmacropru.pdf) </span> \
 <span style="font-size:12pt"> with [A. Contreras](https://sites.google.com/view/acontrerasmellado/home) </span>
 
@@ -48,6 +42,12 @@ Our model includes a rich yet parsimonious banking sector that allows us to anal
 <span style="color:rgb(28, 69, 135); font-weight:bold"> Presented at: </span> <span style="color:rgb(28, 69, 135)"> EIEF (Mar. 2025), CEMLA LAJCB Conference (May 2025) </span>
 </p>
 </div>
+
+<span style="color:rgb(168, 141, 34); font-size:17pt">
+**Work in progress**
+</span>
+
+<hr style="border-color: gray;">
 
 **Banking Networks and the Global Propagation of Shocks** with [G. Romanini]([https://sites.google.com/view/acontrerasmellado/home](https://giacomoromanini.com/))
 
