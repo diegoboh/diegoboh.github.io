@@ -49,9 +49,9 @@ Our model includes a rich yet parsimonious banking sector that allows us to anal
 </p>
 </div>
 
-**Moral Hazard, Swap Lines and Dollar Shortages**
+**Banking Networks and the Global Propagation of Shocks** with [G. Romanini]([https://sites.google.com/view/acontrerasmellado/home](https://giacomoromanini.com/))
 
-**Cross-border Lending, Global Banks, and Monetary Policy Spillovers**
+**Monetary Policy and Capital Flows in a Global Banking World**
 
 
 
