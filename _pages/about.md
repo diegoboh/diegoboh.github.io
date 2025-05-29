@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="height:10px;font-size:12pt;">&nbsp;</div>
+<div style="height:10px;font-size:8pt;">&nbsp;</div>
 
 I am a <span style="color:#005091;">**Research Fellow** at the **Bank of Italy**</span>, working in the Financial Stability Directorate.
 
