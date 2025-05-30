@@ -49,7 +49,7 @@ Our model includes a rich yet parsimonious banking sector that allows us to anal
 
 <hr style="border-color: gray;">
 
-**Banking Networks and the Global Propagation of Shocks** with [G. Romanini](https://giacomoromanini.com/)
+**Banking Networks and the Global Financial Cycle** with G. Romanini
 
 **Monetary Policy and Capital Flows in a Global Banking World**
 
