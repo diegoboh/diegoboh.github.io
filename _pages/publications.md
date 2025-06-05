@@ -32,7 +32,10 @@ This paper provides a stylized framework to study the role of the United States 
 </p>
 </div>
 
-**Countercyclical Capital and Reserve Requirements in a Small Open Economy** <span style="font-size:11pt"> [[Paper]](https://diegoboh.github.io/files/DSGEmacropru.pdf) </span> \
+<span style="font-size:12pt; font-weight:bold;">
+Countercyclical Capital and Reserve Requirements in a Small Open Economy
+</span>
+<span style="font-size:11pt"> [[Paper]](https://diegoboh.github.io/files/DSGEmacropru.pdf) </span> \
 <span style="font-size:12pt"> with [A. Contreras](https://sites.google.com/view/acontrerasmellado/home) </span>
 
 <div class="indented-paragraph"><p style="text-align: justify; font-size:11pt">
@@ -52,10 +55,13 @@ Our model includes a rich yet parsimonious banking sector that allows us to anal
 
 <hr style="border-color: gray;">
 
-**Banking Networks and the Global Financial Cycle** with G. Romanini
+<span style="font-size:12pt; font-weight:bold;">
+Banking Networks and the Global Financial Cycle
+</span> <span style="font-size:12pt"> with G. Romanini </span>
 
-**Monetary Policy and Capital Flows in a Global Banking World**
-
+<span style="font-size:12pt; font-weight:bold;">
+Monetary Policy and Capital Flows in a Global Banking World
+</span>
 
 
 <span style="color:rgb(168, 141, 34); font-size:15pt; margin-top: 50px">
@@ -64,15 +70,24 @@ Our model includes a rich yet parsimonious banking sector that allows us to anal
 
 <hr style="border-color: gray;">
 
-**The Implications of Loan Maturity on the Probability of Default: Evidence from Peruvian Loans** <span style="font-size:11pt"> [[Paper]](https://diegoboh.github.io/files/MaturityDefault.pdf) </span> \
+<span style="font-size:12pt; font-weight:bold;">
+The Implications of Loan Maturity on the Probability of Default: Evidence from Peruvian Loans
+</span>
+<span style="font-size:11pt"> [[Paper]](https://diegoboh.github.io/files/MaturityDefault.pdf) </span> \
 <span style="font-size:11pt"> with V. Matienzo and A. Olivares. *SBS Working Paper DT-003-2017* </span> \
 <span style="color:rgb(28, 69, 135); font-size:11pt; font-weight:bold"> *Presented at:* </span> <span style="color:rgb(28, 69, 135); text-align: justify; font-size:11pt; font-style:italic"> World Bank & ASBA (Jul. 2017), Annual Congress of the Peruvian Economic Association (2017), XXXV Central Reserve Bank of Peru Annual Research Conference (Oct. 2017) </span>
 
-**Access to Financial Services through Retail Agents and Household Expenditures: Evidence from Peru** <span style="font-size:11pt"> [[Paper]](https://diegoboh.github.io/files/RetailAgents.pdf) </span> \
+<span style="font-size:12pt; font-weight:bold;">
+Access to Financial Services through Retail Agents and Household Expenditures: Evidence from Peru
+</span>
+<span style="font-size:11pt"> [[Paper]](https://diegoboh.github.io/files/RetailAgents.pdf) </span> \
 <span style="font-size:11pt"> with C. Aparicio and K. Huayta. *Journal of Financial Issues SBS Volume XII N1 2016* </span> \
 <span style="color:rgb(28, 69, 135); font-size:11pt; font-weight:bold"> *Presented at:* </span> <span style="color:rgb(28, 69, 135); text-align: justify; font-size:11pt; font-style:italic"> 2nd Conference on Banking Development, Stability, and Sustainability (Dec. 2016) </span>
 
-**Pro-cyclicality and Non-linearities of the Credit Portfolio: evidence from Peru (1998-2015)** <span style="font-size:11pt"> [[Paper]](https://diegoboh.github.io/files/ProcyclicalityCredit.pdf) </span> \
+<span style="font-size:12pt; font-weight:bold;">
+Pro-cyclicality and Non-linearities of the Credit Portfolio: evidence from Peru (1998-2015)
+</span>
+<span style="font-size:11pt"> [[Paper]](https://diegoboh.github.io/files/ProcyclicalityCredit.pdf) </span> \
 <span style="font-size:11pt"> with C. Aparicio and V. Matienzo. *SBS Working Paper DT-005-2016* </span>
 
 {% if author.googlescholar %}
