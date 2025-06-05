@@ -18,16 +18,18 @@ I am a <span style="color:#005091;"><strong>Research Fellow</strong> at the <str
 I obtained my PhD in Economics from <strong>Pompeu Fabra University</strong> and the Barcelona School of Economics, under the supervision of Prof. <a href="https://crei.cat/people/fornaro/" style="text-decoration: none; color: inherit;">Luca Fornaro</a> and Prof. <a href="https://crei.cat/people/martin/" style="text-decoration: none; color: inherit;">Alberto Martin</a>.
 </span>
 
+<span style="font-size:12pt;">
 Currently, I am studying the role of global banks in international macroeconomics, focusing on the dollar, exchange rates, and policy interventions with global implications.
+</span>
 
-
-
-**Research interests:**
+<span style="font-size:12pt;">
+<strong>Research interests:</strong>
 <ul style="margin-top: -15px;">
   <li> International Macroeconomics</li>
   <li> International Finance</li>
   <li> Banking</li>
 </ul>
+</span>
 
 <br>
 
