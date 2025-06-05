@@ -24,12 +24,13 @@ Currently, I am studying the role of global banks in international macroeconomic
 
 <span style="font-size:12pt;">
 <strong>Research interests:</strong>
+</span>
 <ul style="margin-top: -15px; font-size: 12pt;">
   <li> International Macroeconomics</li>
   <li> International Finance</li>
   <li> Banking</li>
 </ul>
-</span>
+
 
 <br>
 
