@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<div style="font-size:11pt;">
+  
 <div style="height:10px;font-size:12pt;">&nbsp;</div>
 
 I am a <span style="color:#005091;">**Research Fellow** at the **Bank of Italy**</span>, working in the Financial Stability Directorate.
@@ -37,6 +39,8 @@ I will join the <span style="color:#005091;">**Bank of Italy**</span> as a Resea
 **Contact:** \
 <span style="font-size:12pt"> Email: diego.bohorquez@upf.edu, bohorquezmde@gmail.com </span>\
 <span style="font-size:12pt"> Via Nazionale 91, 00184 Rome </span>
+
+</div>
 
 <!---
 My research interests are <span style="color:#005091;">**International Macroeconomics, International Finance, and Monetary Policy**</span>.
