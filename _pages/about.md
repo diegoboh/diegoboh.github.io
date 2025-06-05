@@ -24,7 +24,7 @@ Currently, I am studying the role of global banks in international macroeconomic
 
 <span style="font-size:12pt;">
 <strong>Research interests:</strong>
-<ul style="margin-top: -15px;">
+<ul style="margin-top: -15px; font-size: 12pt;">
   <li> International Macroeconomics</li>
   <li> International Finance</li>
   <li> Banking</li>
@@ -33,7 +33,7 @@ Currently, I am studying the role of global banks in international macroeconomic
 
 <br>
 
-**Contact:** \
+<span style="font-size:12pt;"> <strong>Contact:</strong> </span>\
 <span style="font-size:12pt"> Email: diego.bohorquez@upf.edu, bohorquezmde@gmail.com </span>\
 <span style="font-size:12pt"> Via Nazionale 91, 00184 Rome </span>
 
