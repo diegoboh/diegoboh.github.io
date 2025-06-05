@@ -8,9 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 <span style="font-size:12pt;">
 You can find my CV [here](http://diegoboh.github.io/files/CV-DB.pdf).
 </span>
+
 <!--- Comments are Fun <div>
 
 Work experience
