@@ -10,14 +10,15 @@ redirect_from:
  
 <div style="height:10px;font-size:12pt;">&nbsp;</div>
   
-<span style="font-size:11pt;">
+<span style="font-size:12pt;">
 I am a <span style="color:#005091;"><strong>Research Fellow</strong> at the <strong>Bank of Italy</strong></span>, working in the Financial Stability Directorate.
-</span>
 
-I obtained my PhD in Economics from **Pompeu Fabra University** and the Barcelona School of Economics, under the supervision of Prof. <a href="https://crei.cat/people/fornaro/" style="text-decoration: none; color: inherit;">Luca Fornaro</a>
+I obtained my PhD in Economics from <strong>Pompeu Fabra University</strong> and the Barcelona School of Economics, under the supervision of Prof. <a href="https://crei.cat/people/fornaro/" style="text-decoration: none; color: inherit;">Luca Fornaro</a>
  and Prof. <a href="https://crei.cat/people/martin/" style="text-decoration: none; color: inherit;">Alberto Martin</a>.
 
 Currently, I am studying the role of global banks in international macroeconomics, focusing on the dollar, exchange rates, and policy interventions with global implications.
+
+</span>
 
 **Research interests:**
 <ul style="margin-top: -15px;">
