@@ -44,7 +44,7 @@ This paper studies the interaction between macroprudential instruments in a smal
 </div>
 
 <div class="indented-paragraph"><p style="text-align: justify; font-size:11pt; font-style:italic; margin-bottom: 30px">
-<span style="color:rgb(28, 69, 135); font-weight:bold"> Presented at: </span> <span style="color:rgb(28, 69, 135)"> EIEF (Mar. 2025), CEMLA LAJCB Conference (May 2025) </span>
+<span style="color:rgb(28, 69, 135); font-weight:bold"> Presented at: </span> <span style="color:rgb(28, 69, 135)"> EIEF (Mar. 2025), CEMLA LAJCB Conference (May 2025), CEBRA (Aug. 2025) </span>
 </p>
 </div>
 
