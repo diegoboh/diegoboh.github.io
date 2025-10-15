@@ -59,7 +59,7 @@ Banking Networks and the Global Financial Cycle
 </span> <span style="font-size:12pt"> with G. Romanini </span>
 
 <span style="font-size:12pt; font-weight:bold;">
-Monetary Policy and Capital Flows in a Global Banking World
+Monetary Policy, Global Banks and the International Reallocation of Lending
 </span>
 
 
