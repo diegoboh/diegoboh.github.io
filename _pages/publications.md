@@ -14,6 +14,7 @@ author_profile: true
 The United States as the International Lender of Last Resort
 </span>
 <span style="font-size:11pt"> [[Paper]](https://diegoboh.github.io/files/JMP-DB.pdf) </span>
+<span style="font-size:11pt"> [[Online Appendix]](https://diegoboh.github.io/files/JMP-onlineappendix.pdf) </span>
 
 <style>
     .indented-paragraph {
