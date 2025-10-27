@@ -13,9 +13,9 @@ author_profile: true
 <span style="font-size:12pt; font-weight:bold;">
 The United States as the International Lender of Last Resort
 </span>
-<span style="font-size:11pt"> [[Paper]](https://diegoboh.github.io/files/JMP-DB.pdf) </span>
+<span style="font-size:11pt"> [[Paper]](https://diegoboh.github.io/files/JMP-DB.pdf) (Updated) </span>
 <span style="font-size:11pt"> [[Online Appendix]](https://diegoboh.github.io/files/JMP-onlineappendix.pdf) </span> \
-<span style="font-size:11pt"> *Submitted* </span>
+
 <style>
     .indented-paragraph {
         text-indent: 0em;
