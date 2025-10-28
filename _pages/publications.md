@@ -36,8 +36,8 @@ This paper provides a stylized framework to study the role of the United States 
 <span style="font-size:12pt; font-weight:bold;">
 Countercyclical Capital and Reserve Requirements in a Small Open Economy
 </span>
-<span style="font-size:11pt"> [[Paper]](https://diegoboh.github.io/files/DSGEmacropru.pdf) </span> \
-<span style="font-size:12pt"> with [A. Contreras](https://sites.google.com/view/acontrerasmellado/home) </span>
+<span style="font-size:11pt"> [[Paper]](https://diegoboh.github.io/files/DSGEmacropru.pdf){:target="_blank" rel="noopener"} </span> \
+<span style="font-size:12pt"> with [A. Contreras](https://sites.google.com/view/acontrerasmellado/home){:target="_blank" rel="noopener"} </span>
 
 <div class="indented-paragraph"><p style="text-align: justify; font-size:11pt">
 This paper studies the interaction between macroprudential instruments in a small open economy using a dynamic stochastic general equilibrium (DSGE) model with financial and nominal frictions. The framework features a tractable yet rich banking sector that captures the distinct transmission channels of countercyclical capital and reserve requirements, with a focus on interest rate spreads and bank balance sheet composition. We examine optimal policy rules under different central bank objectives. Our findings show that countercyclical adjustments to both instruments help smooth the credit cycle, particularly when financial stability is an explicit policy goal. However, unlike capital requirements, tighter reserve requirements can raise inflation and have ambiguous effects on output, potentially conflicting with traditional monetary policy goals. Finally, under a strict separation of instruments and targets, the optimal policy rule assigns reserve requirements to respond to credit fluctuations, while capital requirements are used to stabilize the output gap.
@@ -73,21 +73,21 @@ Monetary Policy, Global Banks and the International Reallocation of Lending
 <span style="font-size:12pt; font-weight:bold;">
 The Implications of Loan Maturity on the Probability of Default: Evidence from Peruvian Loans
 </span>
-<span style="font-size:11pt"> [[Paper]](https://diegoboh.github.io/files/MaturityDefault.pdf) </span> \
+<span style="font-size:11pt"> [[Paper]](https://diegoboh.github.io/files/MaturityDefault.pdf){:target="_blank" rel="noopener"} </span> \
 <span style="font-size:11pt"> with V. Matienzo and A. Olivares. *SBS Working Paper DT-003-2017* </span> \
 <span style="color:rgb(28, 69, 135); font-size:11pt; font-weight:bold"> *Presented at:* </span> <span style="color:rgb(28, 69, 135); text-align: justify; font-size:11pt; font-style:italic"> World Bank & ASBA (Jul. 2017), Annual Congress of the Peruvian Economic Association (2017), XXXV Central Reserve Bank of Peru Annual Research Conference (Oct. 2017) </span>
 
 <span style="font-size:12pt; font-weight:bold;">
 Access to Financial Services through Retail Agents and Household Expenditures: Evidence from Peru
 </span>
-<span style="font-size:11pt"> [[Paper]](https://diegoboh.github.io/files/RetailAgents.pdf) </span> \
+<span style="font-size:11pt"> [[Paper]](https://diegoboh.github.io/files/RetailAgents.pdf){:target="_blank" rel="noopener"} </span> \
 <span style="font-size:11pt"> with C. Aparicio and K. Huayta. *Journal of Financial Issues SBS Volume XII N1 2016* </span> \
 <span style="color:rgb(28, 69, 135); font-size:11pt; font-weight:bold"> *Presented at:* </span> <span style="color:rgb(28, 69, 135); text-align: justify; font-size:11pt; font-style:italic"> 2nd Conference on Banking Development, Stability, and Sustainability (Dec. 2016) </span>
 
 <span style="font-size:12pt; font-weight:bold;">
 Pro-cyclicality and Non-linearities of the Credit Portfolio: evidence from Peru (1998-2015)
 </span>
-<span style="font-size:11pt"> [[Paper]](https://diegoboh.github.io/files/ProcyclicalityCredit.pdf) </span> \
+<span style="font-size:11pt"> [[Paper]](https://diegoboh.github.io/files/ProcyclicalityCredit.pdf){:target="_blank" rel="noopener"} </span> \
 <span style="font-size:11pt"> with C. Aparicio and V. Matienzo. *SBS Working Paper DT-005-2016* </span>
 
 {% if author.googlescholar %}
