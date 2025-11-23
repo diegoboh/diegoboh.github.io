@@ -56,12 +56,16 @@ This paper studies the interaction between macroprudential instruments in a smal
 <hr style="border-color: gray;">
 
 <span style="font-size:12pt; font-weight:bold;">
-Banking Networks and the Global Financial Cycle
-</span> <span style="font-size:12pt"> with G. Romanini </span>
-
-<span style="font-size:12pt; font-weight:bold;">
 Monetary Policy, Global Banks and the International Reallocation of Lending
 </span>
+
+<span style="font-size:12pt; font-weight:bold;">
+Mapping financial integration: A two-dimensional taxonomy
+</span> <span style="font-size:12pt"> with F. Palazzo </span>
+
+<span style="font-size:12pt; font-weight:bold;">
+Monetary vs Financial Dominance: Institutional Incentives and Policy Misalignment
+</span> <span style="font-size:12pt"> with A. Contreras </span>
 
 
 <span style="color:rgb(168, 141, 34); font-size:15pt; margin-top: 50px">
