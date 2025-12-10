@@ -13,6 +13,7 @@ author_profile: true
 <span style="font-size:12pt; font-weight:bold;">
 The United States as the International Lender of Last Resort
 </span>
+<span style="font-size:11pt; font-style:italic"> Submitted </span>
 <span style="font-size:11pt"> [[Paper]](https://diegoboh.github.io/files/JMP-DB.pdf){:target="_blank" rel="noopener"} </span>
 <span style="font-size:11pt"> [[Online Appendix]](https://diegoboh.github.io/files/JMP-onlineappendix.pdf){:target="_blank" rel="noopener"} </span>
 
@@ -40,7 +41,7 @@ Countercyclical Capital and Reserve Requirements in a Small Open Economy
 <span style="font-size:12pt"> with [A. Contreras](https://sites.google.com/view/acontrerasmellado/home){:target="_blank" rel="noopener"} </span>
 
 <div class="indented-paragraph"><p style="text-align: justify; font-size:11pt">
-This paper studies the interaction between macroprudential instruments in a small open economy using a dynamic stochastic general equilibrium (DSGE) model with financial and nominal frictions. The framework features a tractable yet rich banking sector that captures the distinct transmission channels of countercyclical capital and reserve requirements, with a focus on interest rate spreads and bank balance sheet composition. We examine optimal policy rules under different central bank objectives. Our findings show that countercyclical adjustments to both instruments help smooth the credit cycle, particularly when financial stability is an explicit policy goal. However, unlike capital requirements, tighter reserve requirements can raise inflation and have ambiguous effects on output, potentially conflicting with traditional monetary policy goals. Finally, under a strict separation of instruments and targets, the optimal policy rule assigns reserve requirements to respond to credit fluctuations, while capital requirements are used to stabilize the output gap.
+This paper studies the interaction between macroprudential instruments in a small open economy using a dynamic stochastic general equilibrium (DSGE) model with financial and nominal frictions. Our framework features a tractable yet rich banking sector that captures the distinct transmission channels of countercyclical capital and reserve requirements, particularly focusing on interest rate spreads and bank balance sheet composition. We examine optimal policy rules under different objectives for the monetary authority. Our findings show that countercyclical adjustments to both instruments help smooth the credit cycle, particularly when financial stability is an explicit policy goal. However, unlike capital requirements, tighter reserve requirements can raise inflation and have ambiguous effects on output, potentially conflicting with traditional monetary policy goals. Finally, under a strict separation of instruments and targets, the optimal policy rule assigns reserve requirements to respond to credit fluctuations, while capital requirements are used to stabilize the output gap.
 </p>
 </div>
 
