@@ -57,7 +57,7 @@ This paper studies the interaction between macroprudential instruments in a smal
 <hr style="border-color: gray;">
 
 <span style="font-size:12pt; font-weight:bold;">
-Monetary Policy, Global Banks and the International Reallocation of Lending
+Monetary Policy and Capital Flows in a Global Banking World
 </span>
 
 <span style="font-size:12pt; font-weight:bold;">
