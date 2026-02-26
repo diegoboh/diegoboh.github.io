@@ -77,9 +77,8 @@ Monetary vs Financial Dominance: Institutional Incentives and Policy Misalignmen
 <span style="font-size:12pt; font-weight:bold;">
 Collateral Advantage: Exchange Rates, Capital Flows, and Global Cycles
 </span>
-<span style="font-size:11pt"> [[Paper]](https://diegoboh.github.io/files/MaturityDefault.pdf){:target="_blank" rel="noopener"} </span> \
-<span style="font-size:11pt"> with V. Matienzo and A. Olivares. *SBS Working Paper DT-003-2017* </span> \
-<span style="color:rgb(28, 69, 135); font-size:11pt; font-weight:bold"> *Presented at:* </span> <span style="color:rgb(28, 69, 135); text-align: justify; font-size:11pt; font-style:italic"> sss </span>
+<span style="font-size:11pt"> [[Slides]](https://diegoboh.github.io/files/MaturityDefault.pdf){:target="_blank" rel="noopener"} </span> \
+<span style="font-size:11pt"> M. Devereux, C. Engel & S. Wu </span> <span style="color:rgb(28, 69, 135); text-align: justify; font-size:11pt; font-style:italic"> Salento Macro Meetings 2025 </span>
 
 <span style="color:rgb(168, 141, 34); font-size:15pt; margin-top: 50px">
 **Policy papers**
