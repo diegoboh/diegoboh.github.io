@@ -77,8 +77,33 @@ Monetary vs Financial Dominance: Institutional Incentives and Policy Misalignmen
 <span style="font-size:12pt; font-weight:bold;">
 Collateral Advantage: Exchange Rates, Capital Flows, and Global Cycles
 </span>
-<span style="font-size:11pt"> [[Slides]](https://diegoboh.github.io/files/MaturityDefault.pdf){:target="_blank" rel="noopener"} </span> \
-<span style="font-size:11pt"> M. Devereux, C. Engel & S. Wu </span> <span style="color:rgb(28, 69, 135); text-align: justify; font-size:11pt; font-style:italic"> Salento Macro Meetings 2025 </span>
+<span style="font-size:11pt"> [[Slides]](https://diegoboh.github.io/files/Discussion-Salento.pdf){:target="_blank" rel="noopener"} </span> \
+<span style="font-size:11pt"> by M. Devereux, C. Engel & S. Wu.  </span> <span style="color:rgb(28, 69, 135); text-align: justify; font-size:11pt; font-style:italic"> Salento Macro Meetings, 2025 </span>
+
+<span style="font-size:12pt; font-weight:bold;">
+Is credit access still local for Italian firms? Evidence from a structural spatial-VAR model
+</span>
+<span style="font-size:11pt"> [[Slides]](https://diegoboh.github.io/files/Discussion-Banca.pdf){:target="_blank" rel="noopener"} </span> \
+<span style="font-size:11pt"> by V. Di Giacinto, R. Felici & M. Pagnini.  </span> <span style="color:rgb(28, 69, 135); text-align: justify; font-size:11pt; font-style:italic"> Banca d'Italia, 2024 </span>
+
+<span style="font-size:12pt; font-weight:bold;">
+Gone With The Wind: Monetary Policy and The Global Financial Cycle
+</span>
+<span style="font-size:11pt"> [[Slides]](https://diegoboh.github.io/files/Discussion-LBSTADC.pdf){:target="_blank" rel="noopener"} </span> \
+<span style="font-size:11pt"> by D. Murakami.  </span> <span style="color:rgb(28, 69, 135); text-align: justify; font-size:11pt; font-style:italic"> London Business School TADC, 2023 </span>
+
+<span style="font-size:12pt; font-weight:bold;">
+The Effects of Diagnostic Expectations in a Small Open Economy
+</span>
+<span style="font-size:11pt"> [[Slides]](https://diegoboh.github.io/files/Discussion-Nanterre.pdf){:target="_blank" rel="noopener"} </span> \
+<span style="font-size:11pt"> by M. Montenegro.   </span> <span style="color:rgb(28, 69, 135); text-align: justify; font-size:11pt; font-style:italic"> Université Paris Nanterre, 2023 </span>
+
+<span style="font-size:12pt; font-weight:bold;">
+Bank diversity and financial contagion
+</span>
+<span style="font-size:11pt"> [[Slides]](https://diegoboh.github.io/files/Discussion-Naples.pdf){:target="_blank" rel="noopener"} </span> \
+<span style="font-size:11pt"> by E. Caiazzo and A. Zazzaro.   </span> <span style="color:rgb(28, 69, 135); text-align: justify; font-size:11pt; font-style:italic"> Naples School of Economics, 2023 </span>
+
 
 <span style="color:rgb(168, 141, 34); font-size:15pt; margin-top: 50px">
 **Policy papers**
