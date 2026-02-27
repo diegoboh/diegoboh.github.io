@@ -22,7 +22,7 @@ I obtained my PhD in Economics from <strong>Pompeu Fabra University</strong> and
 Currently, I am studying the role of global banks in international macroeconomics, focusing on the dollar, exchange rates, and policy interventions with global implications.
 </span>
 
-<span style="font-size:12pt;">
+<span style="color:rgb(168, 141, 34); font-size:12pt;">
 <strong>Research interests:</strong>
 </span>
 <ul style="margin-top: -15px; font-size: 12pt;">
@@ -31,10 +31,9 @@ Currently, I am studying the role of global banks in international macroeconomic
   <li> Banking</li>
 </ul>
 
-
 <br>
 
-<span style="font-size:12pt;"> <strong>Contact:</strong> </span>\
+<span style="color:rgb(168, 141, 34); font-size:12pt;"> <strong>Contact:</strong> </span>\
 <span style="font-size:12pt"> Email: diego.bohorquez@bancaditalia.it, bohorquezmde@gmail.com </span>\
 <span style="font-size:12pt"> Via Nazionale 91, 00184 Rome </span>
 
