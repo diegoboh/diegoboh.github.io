@@ -31,7 +31,6 @@ Currently, I am studying the role of global banks in international macroeconomic
   <li> Banking</li>
 </ul>
 
-<br>
 
 <span style="color:rgb(168, 141, 34); font-size:12pt;"> <strong>Contact:</strong> </span>\
 <span style="font-size:12pt"> Email: diego.bohorquez@bancaditalia.it, bohorquezmde@gmail.com </span>\
