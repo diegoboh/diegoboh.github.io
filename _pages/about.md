@@ -11,7 +11,7 @@ redirect_from:
 <div style="height:10px;font-size:12pt;">&nbsp;</div>
   
 <span style="font-size:12pt;">
-I am a <span style="color:#005091;"><strong>Research Fellow</strong> at the <strong>Bank of Italy</strong></span>, working in the Financial Stability Directorate.
+I am a <span style="color:#005091;"><strong>Research Economist</strong> at the <strong>Bank of Italy</strong></span>, working in the Financial Stability Directorate.
 </span>
 
 <span style="font-size:12pt;">
@@ -35,7 +35,7 @@ Currently, I am studying the role of global banks in international macroeconomic
 <br>
 
 <span style="font-size:12pt;"> <strong>Contact:</strong> </span>\
-<span style="font-size:12pt"> Email: diego.bohorquez@upf.edu, bohorquezmde@gmail.com </span>\
+<span style="font-size:12pt"> Email: diego.bohorquez@bancaditalia.it, bohorquezmde@gmail.com </span>\
 <span style="font-size:12pt"> Via Nazionale 91, 00184 Rome </span>
 
 
@@ -50,6 +50,7 @@ My research interests are <span style="color:#005091;">**International Macroecon
 </style>
 -->
 
+<!---
 <div class="image-container">
     <div class="image-wrapper">
         <img src="/images/UPFt_rgb.png" class="scaled-image">
@@ -58,6 +59,7 @@ My research interests are <span style="color:#005091;">**International Macroecon
         <img src="/images/bse_logo.png" class="scaled-image smaller-image">
     </div>
 </div>
+-->
 
 <style>
     .image-container {
