@@ -128,7 +128,7 @@ The Effects of Diagnostic Expectations in a Small Open Economy
 <span style="font-size:12pt; font-weight:bold;">
 Bank diversity and financial contagion
 </span>
-<span style="font-size:11pt"> [[Slides]](https://diegoboh.github.io/files/Discussion-Naples.pdf){:target="_blank" rel="noopener"} </span> \
+<span style="font-size:11pt"> [[Slides]](){:target="_blank" rel="noopener"} </span> \
 <span style="font-size:11pt"> by E. Caiazzo and A. Zazzaro.   </span> <span style="color:rgb(28, 69, 135); text-align: justify; font-size:11pt; font-style:italic"> Naples School of Economics, 2023 </span>
 
 
