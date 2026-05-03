@@ -1,31 +1,86 @@
----
-layout: compress
----
-
-{% include base_path %}
-
-<!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: site.locale | default: "en-US" }}">
   <head>
-    {% include head.html %}
-    {% include head/custom.html %}
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
   </head>
-
   <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+        {% if site.logo %}
+          <img src="{{ site.logo | relative_url }}" alt="{{ site.title }} portrait" class="profile-image">
+        {% elsif site.author.avatar %}
+          <img src="{{ "/images/" | append: site.author.avatar | relative_url }}" alt="{{ site.title }} portrait" class="profile-image">
+        {% endif %}
 
-    {{ content }}
+        {% if site.description %}
+          <p>{{ site.description }}</p>
+        {% endif %}
 
-    <div class="page__footer">
+        {% if site.author.bio %}
+          <p class="profile-bio">{{ site.author.bio }}</p>
+        {% endif %}
+
+        {% if site.author.location %}
+          <p class="profile-meta">{{ site.author.location }}</p>
+        {% endif %}
+
+        {% assign nav_items = site.data.navigation.main %}
+        {% if nav_items %}
+          <nav class="site-nav" aria-label="Main navigation">
+            <ul>
+              {% for item in nav_items %}
+                {% assign item_url = item.url | relative_url %}
+                {% assign current_url = page.url | relative_url %}
+                <li>
+                  <a href="{{ item_url }}"{% if current_url == item_url %} class="active"{% endif %}>{{ item.title }}</a>
+                </li>
+              {% endfor %}
+            </ul>
+          </nav>
+        {% endif %}
+
+        <ul class="profile-links">
+          {% if site.cv_url %}
+            <li><a href="{{ site.cv_url | relative_url }}">CV (PDF)</a></li>
+          {% endif %}
+          {% if site.author.email %}
+            <li><a href="mailto:{{ site.author.email }}">Email</a></li>
+          {% endif %}
+          {% if site.author.github %}
+            <li><a href="https://github.com/{{ site.author.github }}">GitHub</a></li>
+          {% endif %}
+          {% if site.author.linkedin %}
+            <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}/">LinkedIn</a></li>
+          {% endif %}
+          {% if site.author.twitter %}
+            <li><a href="https://x.com/{{ site.author.twitter }}">X</a></li>
+          {% endif %}
+        </ul>
+      </header>
+
+      <section>
+        {% unless page.hide_title %}
+          {% if page.title %}
+            <h1>{{ page.title }}</h1>
+          {% endif %}
+        {% endunless %}
+        {{ content }}
+      </section>
+
       <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
+        <p><small>Hosted on GitHub Pages.</small></p>
       </footer>
     </div>
-
-    {% include scripts.html %}
-
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>

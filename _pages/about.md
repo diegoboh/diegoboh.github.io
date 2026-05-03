@@ -1,97 +1,29 @@
 ---
-layout: archive
+layout: default
 permalink: /
 title: ""
-author_profile: true
-redirect_from: 
+hide_title: true
+redirect_from:
   - /about/
   - /about.html
 ---
- 
-<div style="height:10px;font-size:12pt;">&nbsp;</div>
-  
-<span style="font-size:12pt;">
-I am a <span style="color:#005091;"><strong>Research Economist</strong> at the <strong>Bank of Italy</strong></span>, working in the Financial Stability Directorate.
-</span>
 
-<span style="font-size:12pt;">
-I obtained my PhD in Economics from <strong>Pompeu Fabra University</strong> and the Barcelona School of Economics, under the supervision of Prof. <a href="https://crei.cat/people/fornaro/" style="text-decoration: none; color: inherit;">Luca Fornaro</a> and Prof. <a href="https://crei.cat/people/martin/" style="text-decoration: none; color: inherit;">Alberto Martin</a>.
-</span>
+<p class="page-intro">
+I am a <strong>Research Economist</strong> at the <strong>Bank of Italy</strong>, working in the Financial Stability Directorate.
+</p>
 
-<span style="font-size:12pt;">
-Currently, I am studying the role of global banks in international macroeconomics, focusing on the dollar, exchange rates, and policy interventions with global implications.
-</span>
+I received my PhD in Economics from **Pompeu Fabra University** and the **Barcelona School of Economics**, under the supervision of [Luca Fornaro](https://crei.cat/people/fornaro/) and [Alberto Martin](https://crei.cat/people/martin/).
 
-<span style="color:rgb(168, 141, 34); font-size:12pt;">
-<strong>Research interests:</strong>
-</span>
-<ul style="margin-top: -15px; font-size: 12pt;">
-  <li> International Macroeconomics</li>
-  <li> International Finance</li>
-  <li> Banking</li>
-</ul>
+My research studies the role of global banks in international macroeconomics, with a focus on the dollar, exchange rates, and policy interventions with global implications.
 
+## Research Interests
 
-<span style="color:rgb(168, 141, 34); font-size:12pt;"> <strong>Contact:</strong> </span>\
-<span style="font-size:12pt"> Email: diego.bohorquez@bancaditalia.it, bohorquezmde@gmail.com </span>\
-<span style="font-size:12pt"> Via Nazionale 91, 00184 Rome </span>
+- International macroeconomics
+- International finance
+- Banking
 
+## Contact
 
-<!---
-My research interests are <span style="color:#005091;">**International Macroeconomics, International Finance, and Monetary Policy**</span>.
-<img src="/images/UPFt_rgb.png" class="scaled-image">
-<style>
-    .scaled-image {
-        max-width: 200px; /* Set the maximum width for the image */
-        height: auto;     /* Allow the height to adjust automatically */
-    }
-</style>
--->
-
-<!---
-<div class="image-container">
-    <div class="image-wrapper">
-        <img src="/images/UPFt_rgb.png" class="scaled-image">
-    </div>
-    <div class="image-wrapper">
-        <img src="/images/bse_logo.png" class="scaled-image smaller-image">
-    </div>
-</div>
--->
-
-<style>
-    .image-container {
-        display: flex;
-        align-items: center;
-    }
-
-    .image-wrapper {
-        margin-right: 10px; /* Add margin between the images */
-    }
-
-    .scaled-image {
-        max-width: 200px;
-        height: auto;
-    }
-
-    .smaller-image {
-        max-width: 150px; /* Adjust the max-width for the smaller image */
-    }
-</style>
-
-
-
-<!--- Comments are Fun <div>
-    <p style="float: left;"> AZUL: <span style="color:#005091;"> </span>
-    <img src="/images/UPFt_rgb.png" width="170" height="60">
-    <p> <span style="font-size:12pt"> <ins> Contact </ins> </span> <br>
-        <span style="font-size:12pt"> Email: diego.bohorquez@upf.edu </span> <br>
-        <span style="font-size:12pt"> Ramon Trias Fargas, 25-27, 08005 Barcelona </span>
-    </p> **international macroeconomics, international finance, and monetary policy**.
-    <ul style="margin-top: -15px;">
-  <li> International Macroeconomics</li>
-  <li> International Finance</li>
-  <li> Monetary Policy</li>
-</ul>
-</div>
---->
+- `diego.bohorquez@bancaditalia.it`
+- `bohorquezmde@gmail.com`
+- Via Nazionale 91, 00184 Rome
