@@ -14,61 +14,68 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <div class="top-bar">
+          <div class="site-heading">
+            <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+            {% if site.description %}
+              <p class="site-description">{{ site.description }}</p>
+            {% endif %}
+          </div>
 
-        {% if site.logo %}
-          <img src="{{ site.logo | relative_url }}" alt="{{ site.title }} portrait" class="profile-image">
-        {% elsif site.author.avatar %}
-          <img src="{{ "/images/" | append: site.author.avatar | relative_url }}" alt="{{ site.title }} portrait" class="profile-image">
-        {% endif %}
+          {% assign nav_items = site.data.navigation.main %}
+          {% if nav_items %}
+            <nav class="site-nav" aria-label="Main navigation">
+              <ul>
+                {% for item in nav_items %}
+                  {% assign item_url = item.url | relative_url %}
+                  {% assign current_url = page.url | relative_url %}
+                  <li>
+                    <a href="{{ item_url }}"{% if current_url == item_url %} class="active"{% endif %}>{{ item.title }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </nav>
+          {% endif %}
+        </div>
 
-        {% if site.description %}
-          <p>{{ site.description }}</p>
-        {% endif %}
+        <div class="profile-strip">
+          <div class="profile-text">
+            {% if site.author.bio %}
+              <p class="profile-bio">{{ site.author.bio }}</p>
+            {% endif %}
 
-        {% if site.author.bio %}
-          <p class="profile-bio">{{ site.author.bio }}</p>
-        {% endif %}
+            {% if site.author.location %}
+              <p class="profile-meta">{{ site.author.location }}</p>
+            {% endif %}
 
-        {% if site.author.location %}
-          <p class="profile-meta">{{ site.author.location }}</p>
-        {% endif %}
-
-        {% assign nav_items = site.data.navigation.main %}
-        {% if nav_items %}
-          <nav class="site-nav" aria-label="Main navigation">
-            <ul>
-              {% for item in nav_items %}
-                {% assign item_url = item.url | relative_url %}
-                {% assign current_url = page.url | relative_url %}
-                <li>
-                  <a href="{{ item_url }}"{% if current_url == item_url %} class="active"{% endif %}>{{ item.title }}</a>
-                </li>
-              {% endfor %}
+            <ul class="profile-links">
+              {% if site.cv_url %}
+                <li><a href="{{ site.cv_url | relative_url }}">CV (PDF)</a></li>
+              {% endif %}
+              {% if site.author.email %}
+                <li><a href="mailto:{{ site.author.email }}">Email</a></li>
+              {% endif %}
+              {% if site.author.github %}
+                <li><a href="https://github.com/{{ site.author.github }}">GitHub</a></li>
+              {% endif %}
+              {% if site.author.linkedin %}
+                <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}/">LinkedIn</a></li>
+              {% endif %}
+              {% if site.author.twitter %}
+                <li><a href="https://x.com/{{ site.author.twitter }}">X</a></li>
+              {% endif %}
             </ul>
-          </nav>
-        {% endif %}
+          </div>
 
-        <ul class="profile-links">
-          {% if site.cv_url %}
-            <li><a href="{{ site.cv_url | relative_url }}">CV (PDF)</a></li>
+          {% if site.logo %}
+            <img src="{{ site.logo | relative_url }}" alt="{{ site.title }} portrait" class="profile-image">
+          {% elsif site.author.avatar %}
+            <img src="{{ "/images/" | append: site.author.avatar | relative_url }}" alt="{{ site.title }} portrait" class="profile-image">
           {% endif %}
-          {% if site.author.email %}
-            <li><a href="mailto:{{ site.author.email }}">Email</a></li>
-          {% endif %}
-          {% if site.author.github %}
-            <li><a href="https://github.com/{{ site.author.github }}">GitHub</a></li>
-          {% endif %}
-          {% if site.author.linkedin %}
-            <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}/">LinkedIn</a></li>
-          {% endif %}
-          {% if site.author.twitter %}
-            <li><a href="https://x.com/{{ site.author.twitter }}">X</a></li>
-          {% endif %}
-        </ul>
+        </div>
       </header>
 
-      <section>
+      <section class="page-content">
         {% unless page.hide_title %}
           {% if page.title %}
             <h1>{{ page.title }}</h1>

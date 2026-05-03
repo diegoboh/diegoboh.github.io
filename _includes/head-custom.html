@@ -1,29 +1,88 @@
 <link rel="icon" type="image/png" href="{{ "/images/site-logo.png" | relative_url }}">
 <style>
+  .wrapper {
+    width: min(960px, calc(100% - 32px));
+    margin: 0 auto;
+  }
+
+  header,
+  section,
+  footer {
+    float: none;
+    width: auto;
+    position: static;
+  }
+
+  header {
+    padding: 28px 0 18px;
+    margin-bottom: 10px;
+  }
+
+  .top-bar {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 1.5rem;
+    padding-bottom: 0.9rem;
+    border-bottom: 1px solid #e5e5e5;
+  }
+
+  .site-heading h1 {
+    margin: 0;
+    font-size: 2rem;
+  }
+
+  .site-description {
+    margin: 0.35rem 0 0;
+    color: #666;
+    font-size: 0.98rem;
+  }
+
+  .profile-strip {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.5rem;
+    padding-top: 1rem;
+  }
+
+  .profile-text {
+    min-width: 0;
+  }
+
   .profile-image {
+    width: 120px;
+    max-width: 120px;
     border-radius: 8px;
-    margin-bottom: 1rem;
+    margin: 0;
   }
 
   .profile-bio,
   .profile-meta {
-    margin: 0 0 0.75rem;
+    margin: 0 0 0.45rem;
   }
 
   .site-nav {
-    margin: 1.5rem 0;
+    margin: 0;
   }
 
   .site-nav ul,
   .profile-links {
-    list-style: none;
+    list-style: none !important;
     margin: 0;
     padding: 0;
   }
 
+  .site-nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.1rem;
+    justify-content: flex-end;
+  }
+
   .site-nav li,
   .profile-links li {
-    margin: 0 0 0.45rem;
+    margin: 0;
   }
 
   .site-nav a.active {
@@ -32,7 +91,14 @@
   }
 
   .profile-links {
-    margin-top: 1.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.9rem;
+    margin-top: 0.85rem;
+  }
+
+  .page-content {
+    padding-top: 0.5rem;
   }
 
   section h1 {
@@ -55,5 +121,25 @@
   .paper-note {
     color: #666;
     font-style: italic;
+  }
+
+  @media (max-width: 760px) {
+    .top-bar,
+    .profile-strip {
+      display: block;
+    }
+
+    .site-nav {
+      margin-top: 0.9rem;
+    }
+
+    .site-nav ul {
+      justify-content: flex-start;
+    }
+
+    .profile-image {
+      display: block;
+      margin-top: 1rem;
+    }
   }
 </style>
