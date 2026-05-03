@@ -22,16 +22,8 @@
           <img src="{{ "/images/" | append: site.author.avatar | relative_url }}" alt="{{ site.title }} portrait" class="profile-image">
         {% endif %}
 
-        {% if site.description %}
-          <p>{{ site.description }}</p>
-        {% endif %}
-
         {% if site.author.bio %}
           <p class="profile-bio">{{ site.author.bio }}</p>
-        {% endif %}
-
-        {% if site.author.location %}
-          <p class="profile-meta">{{ site.author.location }}</p>
         {% endif %}
 
         <ul class="profile-links">
