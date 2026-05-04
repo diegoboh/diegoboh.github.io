@@ -14,13 +14,13 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-
         {% if site.logo %}
           <img src="{{ site.logo | relative_url }}" alt="{{ site.title }} portrait" class="profile-image">
         {% elsif site.author.avatar %}
           <img src="{{ "/images/" | append: site.author.avatar | relative_url }}" alt="{{ site.title }} portrait" class="profile-image">
         {% endif %}
+
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.author.bio %}
           <p class="profile-bio">{{ site.author.bio }}</p>
