@@ -43,9 +43,11 @@ permalink: /publications/
 
 ## Work in Progress
 
-- **Monetary Policy and Capital Flows in a Global Banking World**
-- **Mapping financial integration: A two-dimensional taxonomy**, with F. Palazzo
-- **Monetary vs Financial Dominance: Institutional Incentives and Policy Misalignment**, with A. Contreras
+<p><span class="paper-entry-title">Monetary Policy and Capital Flows in a Global Banking World</span></p>
+
+<p><span class="paper-entry-title">Mapping financial integration: A two-dimensional taxonomy</span> | with F. Palazzo</p>
+
+<p><span class="paper-entry-title">Monetary vs Financial Dominance: Institutional Incentives and Policy Misalignment</span> | with A. Contreras</p>
 
 ## Policy Papers
 
