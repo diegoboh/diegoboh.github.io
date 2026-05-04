@@ -6,9 +6,8 @@ permalink: /publications/
 
 ## Working Papers
 
-### The United States as the International Lender of Last Resort
-
 <div class="paper-meta">
+  <span class="paper-entry-title">The United States as the International Lender of Last Resort</span> |
   <a href="{{ "/files/JMP-DB.pdf" | relative_url }}">Paper</a> |
   <a href="{{ "/files/JMP-onlineappendix.pdf" | relative_url }}">Online Appendix</a> |
   <span class="paper-note">Submitted</span>
@@ -25,9 +24,8 @@ permalink: /publications/
 
 *Presented at:* 2nd Sailing the Macro Workshop (Sep. 2022), Naples School of Economics PhD Workshop (Sep. 2022), BdF-BoE-BoI International-Macro Workshop (Nov. 2022), SAEe (Dec. 2022), CREi MacroLunch (May 2022/Mar. 2023), Universite Paris Nanterre PhD Conference (Apr. 2023), LBS TADC (May 2023), Journal of International Economics Summer School (Poster, Jun. 2023), XXVI Workshop on Dynamic Macro (Jul. 2023), EEA (Aug. 2023), LSE-Oxford Workshop on International Macroeconomics and Finance (May 2024), Theories and Methods in Macroeconomics (May 2025), Banque de France-EUI (Nov. 2025).
 
-### Countercyclical Capital and Reserve Requirements in a Small Open Economy
-
 <div class="paper-meta">
+  <span class="paper-entry-title">Countercyclical Capital and Reserve Requirements in a Small Open Economy</span> |
   with <a href="https://sites.google.com/view/acontrerasmellado/home">A. Contreras</a> |
   <a href="{{ "/files/DSGEmacropru.pdf" | relative_url }}">Paper</a>
 </div>
@@ -51,9 +49,8 @@ permalink: /publications/
 
 ## Policy Papers
 
-### The Implications of Loan Maturity on the Probability of Default: Evidence from Peruvian Loans
-
 <p class="paper-links">
+  <span class="paper-entry-title">The Implications of Loan Maturity on the Probability of Default: Evidence from Peruvian Loans</span> |
   <a href="{{ "/files/MaturityDefault.pdf" | relative_url }}">Paper</a>
 </p>
 
@@ -61,9 +58,8 @@ With V. Matienzo and A. Olivares. *SBS Working Paper DT-003-2017.*
 
 *Presented at:* World Bank and ASBA (Jul. 2017), Annual Congress of the Peruvian Economic Association (2017), XXXV Central Reserve Bank of Peru Annual Research Conference (Oct. 2017).
 
-### Access to Financial Services through Retail Agents and Household Expenditures: Evidence from Peru
-
 <p class="paper-links">
+  <span class="paper-entry-title">Access to Financial Services through Retail Agents and Household Expenditures: Evidence from Peru</span> |
   <a href="{{ "/files/RetailAgents.pdf" | relative_url }}">Paper</a>
 </p>
 
@@ -71,9 +67,8 @@ With C. Aparicio and K. Huayta. *Journal of Financial Issues SBS Volume XII N1 2
 
 *Presented at:* 2nd Conference on Banking Development, Stability, and Sustainability (Dec. 2016).
 
-### Pro-cyclicality and Non-linearities of the Credit Portfolio: evidence from Peru (1998-2015)
-
 <p class="paper-links">
+  <span class="paper-entry-title">Pro-cyclicality and Non-linearities of the Credit Portfolio: evidence from Peru (1998-2015)</span> |
   <a href="{{ "/files/ProcyclicalityCredit.pdf" | relative_url }}">Paper</a>
 </p>
 
@@ -81,38 +76,34 @@ With C. Aparicio and V. Matienzo. *SBS Working Paper DT-005-2016.*
 
 ## Discussions
 
-### Collateral Advantage: Exchange Rates, Capital Flows, and Global Cycles
-
 <p class="paper-links">
+  <span class="paper-entry-title">Collateral Advantage: Exchange Rates, Capital Flows, and Global Cycles</span> |
   <a href="{{ "/files/Discussion-Salento.pdf" | relative_url }}">Slides</a>
 </p>
 
 By M. Devereux, C. Engel, and S. Wu. *Salento Macro Meetings, 2025.*
 
-### Is credit access still local for Italian firms? Evidence from a structural spatial-VAR model
-
 <p class="paper-links">
+  <span class="paper-entry-title">Is credit access still local for Italian firms? Evidence from a structural spatial-VAR model</span> |
   <a href="{{ "/files/Discussion-Banca.pdf" | relative_url }}">Slides</a>
 </p>
 
 By V. Di Giacinto, R. Felici, and M. Pagnini. *Banca d'Italia, 2024.*
 
-### Gone With The Wind: Monetary Policy and The Global Financial Cycle
-
 <p class="paper-links">
+  <span class="paper-entry-title">Gone With The Wind: Monetary Policy and The Global Financial Cycle</span> |
   <a href="{{ "/files/Discussion-LBSTADC.pdf" | relative_url }}">Slides</a>
 </p>
 
 By D. Murakami. *London Business School TADC, 2023.*
 
-### The Effects of Diagnostic Expectations in a Small Open Economy
-
 <p class="paper-links">
+  <span class="paper-entry-title">The Effects of Diagnostic Expectations in a Small Open Economy</span> |
   <a href="{{ "/files/Discussion-Nanterre.pdf" | relative_url }}">Slides</a>
 </p>
 
 By M. Montenegro. *Universite Paris Nanterre, 2023.*
 
-### Bank diversity and financial contagion
+<p><span class="paper-entry-title">Bank diversity and financial contagion</span></p>
 
 By E. Caiazzo and A. Zazzaro. *Naples School of Economics, 2023.*
