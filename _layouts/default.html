@@ -27,9 +27,6 @@
         {% endif %}
 
         <ul class="profile-links">
-          {% if site.cv_url %}
-            <li><a href="{{ site.cv_url | relative_url }}">CV (PDF)</a></li>
-          {% endif %}
           {% if site.author.email %}
             <li><a href="mailto:{{ site.author.email }}">Email</a></li>
           {% endif %}
