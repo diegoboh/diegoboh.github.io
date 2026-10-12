@@ -45,7 +45,7 @@ permalink: /publications/
 
 <p><span class="paper-entry-title">Monetary Policy and Capital Flows in a Global Banking World</span></p>
 
-<p><span class="paper-entry-title">Mapping financial integration: A two-dimensional taxonomy</span> | with F. Palazzo</p>
+<p><span class="paper-entry-title">Floating-Rate Loans and Bank Credit Risk during a Monetary Tightening: Theory and Evidence from Credit Registry Data</span> | with P. Varraso</p>
 
 <p><span class="paper-entry-title">Monetary vs Financial Dominance: Institutional Incentives and Policy Misalignment</span> | with A. Contreras</p>
 
