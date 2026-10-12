@@ -47,7 +47,7 @@ permalink: /publications/
 
 <p><span class="paper-entry-title">Floating-Rate Loans and Bank Credit Risk during a Monetary Tightening: Theory and Evidence from Credit Registry Data</span> | with P. Varraso</p>
 
-<p><span class="paper-entry-title">Monetary vs Financial Dominance: Institutional Incentives and Policy Misalignment</span> | with A. Contreras</p>
+<p><span class="paper-entry-title">Search-and-Matching Model of Credit Relationships with Endogenous Shopping Around</span> | with V. Cuciniello and F. M. Piersanti</p>
 
 ## Policy Papers
 
