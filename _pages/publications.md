@@ -49,6 +49,8 @@ permalink: /publications/
 
 <p><span class="paper-entry-title">Search-and-Matching Model of Credit Relationships with Endogenous Shopping Around</span> | with V. Cuciniello and F. M. Piersanti</p>
 
+<p><span class="paper-entry-title">Spatial Absorption in Global Financial Networks</span> | with J. Park and G. Romanini</p>
+
 ## Policy Papers
 
 <p class="paper-links">
