@@ -43,13 +43,13 @@ permalink: /publications/
 
 ## Work in Progress
 
-<p><span class="paper-entry-title">Monetary Policy and Capital Flows in a Global Banking World</span></p>
-
 <p><span class="paper-entry-title">Floating-Rate Loans and Bank Credit Risk during a Monetary Tightening: Theory and Evidence from Credit Registry Data</span> | with P. Varraso</p>
 
 <p><span class="paper-entry-title">Search-and-Matching Model of Credit Relationships with Endogenous Shopping Around</span> | with V. Cuciniello and F. M. Piersanti</p>
 
 <p><span class="paper-entry-title">Spatial Absorption in Global Financial Networks</span> | with J. Park and G. Romanini</p>
+
+<p><span class="paper-entry-title">Monetary Policy and Capital Flows in a Global Banking World</span></p>
 
 ## Policy Papers
 
